@@ -32,4 +32,4 @@ The Sales Manager needs a customer-level revenue report for completed orders.
 - The output CSV is saved in the ticket output folder.
 
 ## Notes
-Do not change files inside `datasets/raw/`. Save your result inside this ticket's `output/` folder.
+Do not change files inside `datasets/raw/`. Save your result inside `output/` folder.

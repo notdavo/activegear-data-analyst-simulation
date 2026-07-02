@@ -1,0 +1,127 @@
+customer_id,first_name,last_name,country,segment,purchase_count,total_quantity,total_revenue
+C0002,Camila,Flores,Costa Rica,Student,6,32.0,-3490.7
+C0003,Gabriela,Ramírez,Chile,Standard,4,29.0,-4391.9
+C0004,Camila,García,Guatemala,Standard,7,41.0,-1798.0
+C0005,Carlos,Hernández,Costa Rica,Standard,11,95.0,1139.5000000000005
+C0006,Sofía,Vargas,Chile,Premium,8,61.0,-12253.099999999999
+C0007,Carlos,García,Guatemala,Premium,6,39.0,-220.8999999999999
+C0008,Daniela,Jiménez,Mexico,Premium,8,61.0,-3949.6000000000004
+C0009,Diana,Rojas,Mexico,Premium,2,17.0,446.29999999999995
+C0011,Miguel,Flores,Guatemala,Standard,7,57.0,1057.6
+C0012,Gabriela,Mora,Mexico,Standard,4,23.0,-423.3
+C0013,José,López,Colombia,Student,5,49.0,-4564.9
+C0014,Laura,López,Guatemala,Corporate,10,81.0,-6354.4
+C0015,Paula,García,Panama,Student,6,41.0,-2549.3
+C0017,Martín,Mora,Colombia,Premium,6,70.0,-9382.8
+C0018,Daniela,López,Chile,Student,6,38.0,302.4
+C0019,Isabella,Gómez,Chile,Standard,9,66.0,-29792.199999999997
+C0020,Mateo,Hernández,Costa Rica,Standard,4,41.0,-12535.600000000002
+C0021,Valeria,Martínez,Mexico,Premium,8,80.0,-4823.4
+C0022,Isabella,Rodríguez,Costa Rica,Standard,5,54.0,-7399.400000000001
+C0023,Luis,Pérez,Costa Rica,Standard,7,69.0,-2015.7999999999997
+C0024,Ricardo,Rodríguez,Panama,Premium,6,53.0,-2235.9999999999995
+C0025,Lucía,García,Panama,Student,4,43.0,2137.8
+C0026,Lucía,López,Panama,Standard,4,35.0,625.5
+C0027,Javier,García,Colombia,Standard,10,96.0,-1831.6
+C0028,Camila,Vargas,Costa Rica,Student,6,54.0,-24307.000000000004
+C0029,Javier,Gómez,Chile,Premium,8,59.0,-9393.1
+C0030,Diego,Martínez,Guatemala,Standard,4,40.0,-1317.6999999999998
+C0031,Gabriela,Rojas,Colombia,Student,11,82.0,-7245.599999999999
+C0032,Emilio,Ramírez,Colombia,Premium,9,74.0,-8294.5
+C0033,Lucía,López,Costa Rica,Student,7,77.0,-248.0999999999996
+C0034,Carlos,Ramírez,Costa Rica,Student,5,28.0,-1190.2999999999997
+C0035,Oscar,Flores,Mexico,Standard,5,41.0,18.300000000000047
+C0036,Carlos,Vargas,Guatemala,Premium,9,66.0,2533.5
+C0038,Laura,Rodríguez,Costa Rica,Student,5,31.0,1808.7
+C0039,Oscar,Rodríguez,Chile,Corporate,9,69.0,-1036.3
+C0040,Miguel,Rodríguez,Mexico,Standard,4,38.0,-6119.800000000001
+C0041,Camila,Ramírez,Mexico,Standard,2,24.0,11.600000000000023
+C0042,Diana,Pérez,Panama,Standard,4,51.0,-8454.7
+C0043,José,Vargas,Colombia,Standard,11,96.0,-6134.5
+C0045,María,Hernández,Costa Rica,Premium,7,38.0,-186.4
+C0046,Miguel,Jiménez,Costa Rica,Student,5,27.0,-6713.2
+C0049,Fernando,García,Costa Rica,Standard,8,57.0,1578.4
+C0050,Daniela,Vargas,Chile,Student,10,78.0,-10808.9
+C0051,Gabriela,Mora,Mexico,Standard,7,48.0,-2682.2999999999997
+C0052,Adriana,Rodríguez,Guatemala,Standard,4,21.0,746.5
+C0053,Martín,Pérez,Mexico,Standard,7,67.0,1180.1
+C0054,Daniela,Rodríguez,Guatemala,Premium,11,74.0,-1297.8
+C0055,Sebastián,Castro,Mexico,Standard,9,66.0,-5845.1
+C0056,Lucía,Flores,Costa Rica,Student,5,39.0,-4895.6
+C0058,Martín,Torres,Guatemala,Premium,4,34.0,-8274.500000000002
+C0059,Luis,Castro,Chile,Corporate,11,116.0,-8229.199999999999
+C0060,Diego,Gómez,Colombia,Corporate,8,66.0,-8974.800000000001
+C0061,Emilio,Jiménez,Guatemala,Standard,5,40.0,-4251.3
+C0062,Emilio,Pérez,Guatemala,Student,6,38.0,-23.79999999999984
+C0063,Emilio,Castro,Chile,Standard,10,81.0,-7897.600000000001
+C0064,Andrés,Vargas,Mexico,Standard,9,60.0,-2085.5
+C0066,Camila,López,Panama,Standard,6,45.0,-362.19999999999976
+C0067,Martín,Torres,Colombia,Standard,7,44.0,893.6
+C0068,José,Castro,Colombia,Standard,4,23.0,-12615.400000000001
+C0069,Andrés,Jiménez,Mexico,Premium,10,83.0,3240.9
+C0070,Javier,Vargas,Panama,Corporate,8,49.0,-799.9
+C0072,Javier,López,Chile,Standard,3,22.0,630.8
+C0073,Martín,Ramírez,Colombia,Premium,11,78.0,1035.3
+C0074,Daniela,López,Panama,Premium,5,27.0,243.5
+C0075,Oscar,López,Mexico,Standard,6,71.0,-11758.1
+C0076,Fernando,Rodríguez,Chile,Premium,6,44.0,1665.1000000000001
+C0077,Camila,García,Guatemala,Standard,8,58.0,-21668.8
+C0078,Luis,Martínez,Costa Rica,Premium,6,43.0,-2158.6
+C0079,Mateo,Pérez,Mexico,Standard,6,40.0,-2878.000000000001
+C0080,Gabriela,Hernández,Mexico,Standard,2,10.0,446.0
+C0081,Andrés,García,Costa Rica,Student,6,38.0,-2058.7999999999997
+C0082,Martín,Gómez,Colombia,Standard,10,84.0,-4238.8
+C0083,Daniela,Hernández,Colombia,Student,3,21.0,-444.0999999999999
+C0084,Fernando,Pérez,Colombia,Standard,8,50.0,-11152.5
+C0086,José,Vargas,Costa Rica,Standard,5,47.0,-6792.499999999999
+C0087,Valeria,Hernández,Panama,Student,11,65.0,-5350.8
+C0088,Elena,Rojas,Panama,Standard,5,43.0,1025.3999999999999
+C0089,Paula,Jiménez,Costa Rica,Student,2,9.0,457.1
+C0090,Adriana,Jiménez,Panama,Premium,6,45.0,-6912.3
+C0092,Adriana,Martínez,Mexico,Standard,5,36.0,648.8000000000001
+C0094,Mateo,Pérez,Guatemala,Standard,8,52.0,-1023.4999999999999
+C0095,Mateo,Jiménez,Mexico,Standard,3,28.0,-13371.199999999999
+C0097,Luis,Gómez,Colombia,Standard,9,78.0,-308.0
+C0098,Mateo,Martínez,Chile,Student,6,51.0,1184.9
+C0099,Camila,Ramírez,Chile,Corporate,3,35.0,835.3000000000001
+C0100,Adriana,Jiménez,Guatemala,Standard,5,48.0,-8101.8
+C0101,Miguel,Mora,Chile,Student,4,14.0,-1237.0000000000002
+C0103,Valeria,Castro,Panama,Standard,7,47.0,44.6999999999999
+C0104,Ana,Hernández,Costa Rica,Student,2,11.0,288.9
+C0105,Ricardo,Castro,Panama,Standard,4,33.0,-1174.2999999999997
+C0106,Lucía,García,Panama,Student,7,38.0,-899.8
+C0107,Carlos,Torres,Guatemala,Student,9,78.0,3641.7000000000003
+C0110,Fernando,Ramírez,Mexico,Corporate,6,34.0,-653.9000000000001
+C0111,Fernando,Ramírez,Chile,Standard,8,80.0,-14028.8
+C0112,Diana,García,Chile,Standard,5,48.0,-8719.800000000001
+C0114,Miguel,Mora,Guatemala,Standard,6,32.0,612.8000000000001
+C0115,Paula,Rodríguez,Chile,Premium,4,37.0,-1000.5999999999999
+C0116,Sebastián,Hernández,Chile,Student,6,42.0,-2439.0
+C0118,Gabriela,Flores,Mexico,Standard,8,52.0,-5165.6
+C0119,Diana,Rojas,Guatemala,Standard,7,48.0,1796.4
+C0120,Mateo,Vargas,Chile,Premium,4,19.0,-42.89999999999998
+C0121,Andrés,Martínez,Mexico,Standard,6,34.0,-2949.400000000001
+C0122,Carlos,Vargas,Guatemala,Corporate,9,59.0,2218.0
+C0123,María,Jiménez,Mexico,Standard,6,31.0,895.9000000000001
+C0124,Paula,Flores,Panama,Student,6,43.0,-11729.3
+C0126,Felipe,Mora,Mexico,Standard,6,26.0,-48.09999999999998
+C0127,Laura,Rojas,Costa Rica,Standard,6,37.0,1421.1000000000001
+C0128,José,Vargas,Guatemala,Standard,3,32.0,-587.9999999999998
+C0129,Javier,Martínez,Panama,Standard,10,95.0,1980.9
+C0132,Miguel,Castro,Colombia,Standard,7,52.0,461.1000000000001
+C0133,Felipe,Rodríguez,Chile,Student,8,64.0,-1124.1000000000001
+C0134,Oscar,Hernández,Mexico,Standard,3,25.0,-3023.0999999999995
+C0135,Felipe,Jiménez,Mexico,Corporate,3,19.0,-298.89999999999986
+C0136,Paula,López,Mexico,Student,4,30.0,1355.0
+C0137,Carlos,Jiménez,Mexico,Standard,8,58.0,2331.7000000000003
+C0138,Sebastián,García,Colombia,Student,4,27.0,-414.70000000000005
+C0139,Diana,Hernández,Colombia,Premium,7,37.0,-272.09999999999985
+C0140,Daniela,Vargas,Guatemala,Corporate,4,38.0,1221.2
+C0141,Martín,Ramírez,Costa Rica,Student,3,27.0,-1652.0
+C0142,Javier,Ramírez,Chile,Standard,3,32.0,469.79999999999995
+C0143,María,Hernández,Guatemala,Student,5,37.0,-1909.1999999999998
+C0145,Diego,Martínez,Colombia,Standard,4,28.0,-910.3999999999997
+C0147,Diana,Torres,Panama,Premium,1,6.0,-28.599999999999994
+C0148,Adriana,Torres,Panama,Premium,2,11.0,548.7
+C0149,Sofía,Gómez,Chile,Standard,8,77.0,-7371.999999999998
+C0150,Lucía,Ramírez,Guatemala,Premium,5,52.0,-6141.099999999999
