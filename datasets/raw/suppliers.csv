@@ -1,0 +1,6 @@
+supplier_id,supplier_name,country,lead_time_days,active
+SUP001,NorthPeak Manufacturing,Mexico,12,True
+SUP002,Andes Sports Textile,Colombia,15,True
+SUP003,Pacific Gear Co.,Panama,8,True
+SUP004,UrbanFit Apparel,Costa Rica,5,True
+SUP005,TrailPro Equipment,Chile,18,True

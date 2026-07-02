@@ -1,0 +1,9 @@
+store_id,store_name,country,city,channel,opened_date,active
+ST001,San Jose Central,Costa Rica,San José,Retail,2021-03-15,True
+ST002,Escazu Outlet,Costa Rica,San José,Outlet,2022-08-01,True
+ST003,Mexico City Reforma,Mexico,Mexico City,Retail,2020-10-12,True
+ST004,Bogota North,Colombia,Bogotá,Retail,2021-11-05,True
+ST005,Panama Online Hub,Panama,Panama City,Online,2023-01-20,True
+ST006,Guatemala Mall,Guatemala,Guatemala City,Retail,2023-05-10,True
+ST007,Santiago Sport Center,Chile,Santiago,Retail,2022-02-18,True
+ST008,Heredia Express,Costa Rica,Heredia,Retail,2024-04-01,False

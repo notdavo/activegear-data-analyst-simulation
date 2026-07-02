@@ -1,0 +1,152 @@
+customer_id,first_name,last_name,email,country,city,segment,signup_date,active
+C0001,Sofía,García,sofia.garcia1@example.com,Colombia,Bogotá,Student,2022-06-02,False
+C0002,Camila,Flores,camila.flores2@example.com,Costa Rica,Cartago,Student,2023-05-05,True
+C0003,Gabriela,Ramírez,gabriela.ramirez3@example.com,Chile,Santiago,Standard,2024-10-25,True
+C0004,Camila,García,camila.garcia4@example.com,Guatemala,Mixco,Standard,2024-04-12,True
+C0005,Carlos,Hernández,carlos.hernandez5@example.com,Costa Rica,Alajuela,Standard,2022-11-04,True
+C0006,Sofía,Vargas,sofia.vargas6@example.com,Chile,Santiago,Premium,2022-01-19,True
+C0007,Carlos,García,carlos.garcia7@example.com,Guatemala,Mixco,Premium,2024-12-15,True
+C0008,Daniela,Jiménez,,Mexico,Mexico City,Premium,2024-10-26,True
+C0009,Diana,Rojas,diana.rojas9@example.com,Mexico,Guadalajara,Premium,2022-03-13,True
+C0010,Valeria,Rodríguez,valeria.rodriguez10@example.com,Costa Rica,Heredia,Standard,2023-04-06,False
+C0011,Miguel,Flores,miguel.flores11@example.com,Guatemala,Mixco,Standard,2024-02-20,True
+C0012,Gabriela,Mora,gabriela.mora12@example.com,Mexico,Mexico City,Standard,2022-01-15,True
+C0013,José,López,jose.lopez13@example.com,Colombia,Cali,Student,2022-12-28,True
+C0014,Laura,López,laura.lopez14@example.com,Guatemala,Guatemala City,Corporate,2024-12-05,True
+C0015,Paula,García,paula.garcia15@example.com,Panama,Colón,Student,2022-12-09,True
+C0016,María,López,maria.lopez16@example.com,Colombia,Cali,Premium,2024-11-05,False
+C0017,Martín,Mora,martin.mora17@example.com,Colombia,Barranquilla,Premium,2022-11-05,True
+C0018,Daniela,López,daniela.lopez18@example.com,Chile,Santiago,Student,2024-01-01,True
+C0019,Isabella,Gómez,isabella.gomez19@example.com,Chile,Concepción,Standard,2024-06-15,True
+C0020,Mateo,Hernández,mateo.hernandez20@example.com,Costa Rica,Heredia,Standard,2023-04-18,True
+C0021,Valeria,Martínez,valeria.martinez21@example.com,Mexico,Puebla,Premium,2023-07-01,True
+C0022,Isabella,Rodríguez,isabella.rodriguez22@example.com,Costa Rica,San José,Standard,2023-04-07,True
+C0023,Luis,Pérez,luis.perez23@example.com,Costa Rica,Alajuela,Standard,2024-06-04,True
+C0024,Ricardo,Rodríguez,ricardo.rodriguez24@example.com,Panama,,Premium,2023-10-18,True
+C0025,Lucía,García,lucia.garcia25@example.com,Panama,Colón,Student,2024-12-31,True
+C0026,Lucía,López,lucia.lopez26@example.com,Panama,Panama City,Standard,2022-05-05,True
+C0027,Javier,García,javier.garcia27@example.com,Colombia,Barranquilla,Standard,2024-09-18,True
+C0028,Camila,Vargas,camila.vargas28@example.com,Costa Rica,Alajuela,Student,2022-07-12,True
+C0029,Javier,Gómez,javier.gomez29@example.com,Chile,Concepción,Premium,2023-09-04,True
+C0030,Diego,Martínez,diego.martinez30@example.com,Guatemala,Antigua Guatemala,Standard,2022-09-08,True
+C0031,Gabriela,Rojas,gabriela.rojas31@example.com,Colombia,Medellín,Student,2024-02-03,True
+C0032,Emilio,Ramírez,emilio.ramirez32@example.com,Colombia,Bogotá,Premium,2022-09-12,True
+C0033,Lucía,López,lucia.lopez33@example.com,Costa Rica,Heredia,Student,2024-12-11,True
+C0034,Carlos,Ramírez,carlos.ramirez34@example.com,Costa Rica,Alajuela,Student,2022-07-19,True
+C0035,Oscar,Flores,oscar.flores35@example.com,Mexico,Mexico City,Standard,2023-08-10,True
+C0036,Carlos,Vargas,carlos.vargas36@example.com,Guatemala,Mixco,Premium,2023-09-21,True
+C0037,María,Rodríguez,maria.rodriguez37@example.com,Mexico,Guadalajara,Standard,2024-03-26,False
+C0038,Laura,Rodríguez,laura.rodriguez38@example.com,Costa Rica,Heredia,Student,2022-12-31,True
+C0039,Oscar,Rodríguez,oscar.rodriguez39@example.com,Chile,Santiago,Corporate,2024-09-26,True
+C0040,Miguel,Rodríguez,miguel.rodriguez40@example.com,Mexico,Guadalajara,Standard,2022-12-31,True
+C0041,Camila,Ramírez,camila.ramirez41@example.com,Mexico,Puebla,Standard,2023-03-19,True
+C0042,Diana,Pérez,diana.perez42@example.com,Panama,David,Standard,2022-09-10,True
+C0043,José,Vargas,jose.vargas43@example.com,Colombia,Medellín,Standard,2023-10-19,True
+C0044,Gabriela,Mora,gabriela.mora44@example.com,Costa Rica,San José,Student,2023-05-09,False
+C0045,María,Hernández,maria.hernandez45@example.com,Costa Rica,Cartago,Premium,2022-12-15,True
+C0046,Miguel,Jiménez,miguel.jimenez46@example.com,Costa Rica,Heredia,Student,2023-06-03,True
+C0047,Miguel,Hernández,miguel.hernandez47@example.com,Panama,Colón,Standard,2023-02-14,False
+C0048,Sebastián,Rodríguez,sebastian.rodriguez48@example.com,Mexico,Guadalajara,Standard,2023-09-04,False
+C0049,Fernando,García,fernando.garcia49@example.com,Costa Rica,San José,Standard,2024-02-02,True
+C0050,Daniela,Vargas,daniela.vargas50@example.com,Chile,Valparaíso,Student,2024-12-12,True
+C0051,Gabriela,Mora,gabriela.mora51@example.com,Mexico,Monterrey,Standard,2024-09-30,True
+C0052,Adriana,Rodríguez,adriana.rodriguez52@example.com,Guatemala,Antigua Guatemala,Standard,2022-05-08,True
+C0053,Martín,Pérez,martin.perez53@example.com,Mexico,Monterrey,Standard,2023-10-30,True
+C0054,Daniela,Rodríguez,daniela.rodriguez54@example.com,Guatemala,Guatemala City,Premium,2024-11-10,True
+C0055,Sebastián,Castro,sebastian.castro55@example.com,Mexico,Monterrey,Standard,2023-04-21,True
+C0056,Lucía,Flores,lucia.flores56@example.com,Costa Rica,Cartago,Student,2024-10-19,True
+C0057,Diana,Flores,diana.flores57@example.com,Panama,David,,2023-08-13,True
+C0058,Martín,Torres,martin.torres58@example.com,Guatemala,Antigua Guatemala,Premium,2022-05-03,True
+C0059,Luis,Castro,luis.castro59@example.com,Chile,Santiago,Corporate,2023-11-15,True
+C0060,Diego,Gómez,diego.gomez60@example.com,Colombia,Cali,Corporate,2022-08-29,True
+C0061,Emilio,Jiménez,emilio.jimenez61@example.com,Guatemala,Antigua Guatemala,Standard,2022-11-19,True
+C0062,Emilio,Pérez,emilio.perez62@example.com,Guatemala,Antigua Guatemala,Student,2022-08-21,True
+C0063,Emilio,Castro,emilio.castro63@example.com,Chile,Concepción,Standard,2024-09-30,True
+C0064,Andrés,Vargas,andres.vargas64@example.com,Mexico,Monterrey,Standard,2023-08-27,True
+C0065,Carlos,Mora,carlos.mora65@example.com,Chile,Santiago,Standard,2024-11-06,False
+C0066,Camila,López,camila.lopez66@example.com,Panama,David,Standard,2022-06-06,True
+C0067,Martín,Torres,martin.torres67@example.com,Colombia,Barranquilla,Standard,2023-07-11,True
+C0068,José,Castro,jose.castro68@example.com,Colombia,Bogotá,Standard,2023-11-25,True
+C0069,Andrés,Jiménez,andres.jimenez69@example.com,Mexico,Guadalajara,Premium,2024-10-01,True
+C0070,Javier,Vargas,javier.vargas70@example.com,Panama,David,Corporate,2024-10-21,True
+C0071,Camila,Vargas,camila.vargas71@example.com,Guatemala,Mixco,Corporate,2023-08-27,False
+C0072,Javier,López,javier.lopez72@example.com,Chile,Concepción,Standard,2023-07-22,True
+C0073,Martín,Ramírez,martin.ramirez73@example.com,Colombia,Medellín,Premium,2024-08-16,True
+C0074,Daniela,López,daniela.lopez74@example.com,Panama,David,Premium,2022-12-24,True
+C0075,Oscar,López,oscar.lopez75@example.com,Mexico,Puebla,Standard,2023-10-11,True
+C0076,Fernando,Rodríguez,fernando.rodriguez76@example.com,Chile,Concepción,Premium,2022-07-05,True
+C0077,Camila,García,camila.garcia77@example.com,Guatemala,Guatemala City,Standard,2022-04-22,True
+C0078,Luis,Martínez,luis.martinez78@example.com,Costa Rica,Cartago,Premium,2023-03-05,True
+C0079,Mateo,Pérez,mateo.perez79@example.com,Mexico,Guadalajara,Standard,2023-07-04,True
+C0080,Gabriela,Hernández,gabriela.hernandez80@example.com,Mexico,Guadalajara,Standard,2024-03-14,True
+C0081,Andrés,García,andres.garcia81@example.com,Costa Rica,San José,Student,2022-03-29,True
+C0082,Martín,Gómez,martin.gomez82@example.com,Colombia,Medellín,Standard,2023-04-22,True
+C0083,Daniela,Hernández,daniela.hernandez83@example.com,Colombia,Barranquilla,Student,2023-01-23,True
+C0084,Fernando,Pérez,fernando.perez84@example.com,Colombia,Barranquilla,Standard,2022-02-26,True
+C0085,Ana,García,ana.garcia85@example.com,Guatemala,Antigua Guatemala,Standard,2024-04-05,False
+C0086,José,Vargas,jose.vargas86@example.com,Costa Rica,Cartago,Standard,2023-03-21,True
+C0087,Valeria,Hernández,valeria.hernandez87@example.com,Panama,Colón,Student,2024-07-26,True
+C0088,Elena,Rojas,elena.rojas88@example.com,Panama,Colón,Standard,2024-02-26,True
+C0089,Paula,Jiménez,paula.jimenez89@example.com,Costa Rica,Alajuela,Student,2022-05-19,True
+C0090,Adriana,Jiménez,adriana.jimenez90@example.com,Panama,Colón,Premium,2023-09-28,True
+C0091,Isabella,Castro,isabella.castro91@example.com,Panama,Colón,Standard,2022-08-24,False
+C0092,Adriana,Martínez,adriana.martinez92@example.com,Mexico,Puebla,Standard,2023-02-16,True
+C0093,Paula,Vargas,paula.vargas93@example.com,Costa Rica,Alajuela,Standard,2023-11-26,False
+C0094,Mateo,Pérez,mateo.perez94@example.com,Guatemala,Mixco,Standard,2022-04-09,True
+C0095,Mateo,Jiménez,mateo.jimenez95@example.com,Mexico,Monterrey,Standard,2023-11-15,True
+C0096,Martín,Hernández,martin.hernandez96@example.com,Colombia,Medellín,Student,2023-01-09,False
+C0097,Luis,Gómez,luis.gomez97@example.com,Colombia,Medellín,Standard,2024-02-17,True
+C0098,Mateo,Martínez,mateo.martinez98@example.com,Chile,Concepción,Student,2023-11-08,True
+C0099,Camila,Ramírez,camila.ramirez99@example.com,Chile,Valparaíso,Corporate,2023-01-24,True
+C0100,Adriana,Jiménez,adriana.jimenez100@example.com,Guatemala,Guatemala City,Standard,2024-01-06,True
+C0101,Miguel,Mora,miguel.mora101@example.com,Chile,Concepción,Student,2022-12-01,True
+C0102,Carlos,Mora,carlos.mora102@example.com,Colombia,Cali,Premium,2024-12-07,False
+C0103,Valeria,Castro,valeria.castro103@example.com,Panama,David,Standard,2022-01-11,True
+C0104,Ana,Hernández,ana.hernandez104@example.com,Costa Rica,Alajuela,Student,2024-12-07,True
+C0105,Ricardo,Castro,ricardo.castro105@example.com,Panama,David,Standard,2023-04-13,True
+C0106,Lucía,García,lucia.garcia106@example.com,Panama,David,Student,2022-01-31,True
+C0107,Carlos,Torres,carlos.torres107@example.com,Guatemala,Guatemala City,Student,2022-12-07,True
+C0108,Adriana,García,adriana.garcia108@example.com,Colombia,Barranquilla,Premium,2023-02-04,False
+C0109,Ricardo,Rodríguez,ricardo.rodriguez109@example.com,Panama,Colón,Premium,2023-02-10,False
+C0110,Fernando,Ramírez,fernando.ramirez110@example.com,Mexico,Puebla,Corporate,2022-02-06,True
+C0111,Fernando,Ramírez,fernando.ramirez111@example.com,Chile,Santiago,Standard,2024-12-04,True
+C0112,Diana,García,diana.garcia112@example.com,Chile,Concepción,Standard,2024-02-15,True
+C0113,Miguel,Pérez,miguel.perez113@example.com,Guatemala,Mixco,Premium,2022-01-24,False
+C0114,Miguel,Mora,miguel.mora114@example.com,Guatemala,Guatemala City,Standard,2024-02-19,True
+C0115,Paula,Rodríguez,paula.rodriguez115@example.com,Chile,Valparaíso,Premium,2024-06-22,True
+C0116,Sebastián,Hernández,sebastian.hernandez116@example.com,Chile,Concepción,Student,2024-06-30,True
+C0117,José,Jiménez,jose.jimenez117@example.com,Colombia,Bogotá,Student,2022-06-08,False
+C0118,Gabriela,Flores,gabriela.flores118@example.com,Mexico,Monterrey,Standard,2022-10-17,True
+C0119,Diana,Rojas,diana.rojas119@example.com,Guatemala,Guatemala City,Standard,2023-07-13,True
+C0120,Mateo,Vargas,mateo.vargas120@example.com,Chile,Santiago,Premium,2024-11-08,True
+C0121,Andrés,Martínez,andres.martinez121@example.com,Mexico,Puebla,Standard,2023-12-31,True
+C0122,Carlos,Vargas,carlos.vargas122@example.com,Guatemala,Antigua Guatemala,Corporate,2023-01-08,True
+C0123,María,Jiménez,maria.jimenez123@example.com,Mexico,Guadalajara,Standard,2023-02-10,True
+C0124,Paula,Flores,paula.flores124@example.com,Panama,Panama City,Student,2022-09-16,True
+C0125,José,Hernández,jose.hernandez125@example.com,Guatemala,Antigua Guatemala,Student,2023-05-22,False
+C0126,Felipe,Mora,felipe.mora126@example.com,Mexico,Guadalajara,Standard,2023-03-21,True
+C0127,Laura,Rojas,laura.rojas127@example.com,Costa Rica,Alajuela,Standard,2022-04-27,True
+C0128,José,Vargas,jose.vargas128@example.com,Guatemala,Guatemala City,Standard,2022-11-08,True
+C0129,Javier,Martínez,javier.martinez129@example.com,Panama,Panama City,Standard,2022-07-21,True
+C0130,Diana,Castro,diana.castro130@example.com,Colombia,Bogotá,Standard,2022-08-18,False
+C0131,Sebastián,Torres,sebastian.torres131@example.com,Costa Rica,Heredia,Student,2022-08-26,False
+C0132,Miguel,Castro,miguel.castro132@example.com,Colombia,Cali,Standard,2024-02-15,True
+C0133,Felipe,Rodríguez,felipe.rodriguez133@example.com,Chile,Concepción,Student,2023-04-12,True
+C0134,Oscar,Hernández,oscar.hernandez134@example.com,Mexico,Mexico City,Standard,2024-01-12,True
+C0135,Felipe,Jiménez,felipe.jimenez135@example.com,Mexico,Puebla,Corporate,2023-06-20,True
+C0136,Paula,López,paula.lopez136@example.com,Mexico,Guadalajara,Student,2022-02-13,True
+C0137,Carlos,Jiménez,carlos.jimenez137@example.com,Mexico,Monterrey,Standard,2022-11-12,True
+C0138,Sebastián,García,sebastian.garcia138@example.com,Colombia,Barranquilla,Student,2022-10-11,True
+C0139,Diana,Hernández,diana.hernandez139@example.com,Colombia,Cali,Premium,2024-11-26,True
+C0140,Daniela,Vargas,daniela.vargas140@example.com,Guatemala,Antigua Guatemala,Corporate,2023-06-17,True
+C0141,Martín,Ramírez,martin.ramirez141@example.com,Costa Rica,Heredia,Student,2024-05-29,True
+C0142,Javier,Ramírez,javier.ramirez142@example.com,Chile,Santiago,Standard,2024-11-14,True
+C0143,María,Hernández,maria.hernandez143@example.com,Guatemala,Mixco,Student,2023-05-03,True
+C0144,Felipe,Castro,felipe.castro144@example.com,Mexico,Guadalajara,Premium,2022-04-09,False
+C0145,Diego,Martínez,diego.martinez145@example.com,Colombia,Bogotá,Standard,2022-12-22,True
+C0146,Isabella,Gómez,isabella.gomez146@example.com,Chile,Santiago,Premium,2022-12-16,False
+C0147,Diana,Torres,diana.torres147@example.com,Panama,Panama City,Premium,2022-01-31,True
+C0148,Adriana,Torres,adriana.torres148@example.com,Panama,Colón,Premium,2024-01-06,True
+C0149,Sofía,Gómez,sofia.gomez149@example.com,Chile,Valparaíso,Standard,2024-09-15,True
+C0150,Lucía,Ramírez,lucia.ramirez150@example.com,Guatemala,Antigua Guatemala,Premium,2022-03-25,True
+C0010,Valeria,Rodríguez,valeria.rodriguez10@example.com,Costa Rica,Heredia,Standard,2023-04-06,False

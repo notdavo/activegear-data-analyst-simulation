@@ -1,0 +1,6 @@
+campaign_id,campaign_name,start_date,end_date,discount_pct,channel
+CMP001,New Year Fitness,2025-01-01,2025-01-31,10,Email
+CMP002,Summer Training Sale,2025-03-01,2025-03-31,15,Social
+CMP003,Back to Gym,2025-05-15,2025-06-15,12,Paid Ads
+CMP004,Runner Week,2025-08-01,2025-08-10,20,Email
+CMP005,Black Friday Preview,2025-11-20,2025-11-30,25,Social
