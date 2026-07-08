@@ -1,0 +1,25 @@
+product_id,product_name,category,subcategory,units_sold,order_count,total_revenue
+PRD002,TrailGrip Shoes,Footwear,Outdoor,319.0,121,34331.661
+PRD001,Runner Pro Shoes,Footwear,Running,287.0,111,33669.119
+PRD021,Everyday Sneakers,Footwear,Lifestyle,281.0,112,24450.103000000003
+PRD011,Yoga Mat Pro,Equipment,Yoga,291.0,101,14155.133
+PRD020,Lightweight Hoodie,Apparel,Lifestyle,236.0,88,13746.451
+PRD008,Gym Backpack 25L,Accessories,Training,235.0,95,11399.155999999999
+PRD015,Cycling Jersey,Apparel,Cycling,200.0,83,10674.207
+PRD006,Compression Leggings,Apparel,Training,252.0,95,10504.493999999999
+PRD004,DryFit Running Shirt,Apparel,Running,262.0,106,8906.829
+PRD022,Soccer Training Ball,Equipment,Soccer,243.0,84,7494.585999999999
+PRD023,Goalkeeper Gloves,Accessories,Soccer,242.0,95,7048.027999999999
+PRD018,Foam Roller,Equipment,Recovery,268.0,95,6978.128999999999
+PRD003,Flex Training Shirt,Apparel,Training,235.0,90,6814.209999999999
+PRD005,Performance Shorts,Apparel,Training,215.0,82,6742.125
+PRD010,Yoga Mat Basic,Equipment,Yoga,229.0,81,6191.009999999999
+PRD009,Training Gloves,Accessories,Training,296.0,106,5719.259999999999
+PRD012,Resistance Bands Set,Equipment,Training,224.0,84,5391.597
+PRD013,Sports Cap,Accessories,Running,258.0,100,4310.852
+PRD007,Hydro Bottle 750ml,Accessories,Hydration,242.0,90,4193.969999999999
+PRD024,Ankle Support,Accessories,Recovery,265.0,99,3627.6220000000003
+PRD017,Jump Rope Speed,Equipment,Training,231.0,84,3570.663
+PRD014,Running Socks Pack,Apparel,Running,242.0,90,3509.993
+PRD016,Bike Bottle Holder,Accessories,Cycling,255.0,100,2928.233
+PRD019,Recovery Massage Ball,Equipment,Recovery,256.0,99,2727.943
