@@ -1,0 +1,667 @@
+order_date,store_id,store_name,country,city,total_orders,total_items_sold,total_revenue
+03/15/2025,ST002,Escazu Outlet,Costa Rica,San José,1,7.0,520.3
+2025-01-01,ST006,Guatemala Mall,Guatemala,Guatemala City,1,15.0,442.7
+2025-01-02,ST003,Mexico City Reforma,Mexico,Mexico City,1,7.0,119.07000000000001
+2025-01-03,ST004,Bogota North,Colombia,Bogotá,1,12.0,494.0200000000001
+2025-01-04,ST002,Escazu Outlet,Costa Rica,San José,1,15.0,655.5
+2025-01-04,ST006,Guatemala Mall,Guatemala,Guatemala City,1,7.0,175.04999999999998
+2025-01-05,ST003,Mexico City Reforma,Mexico,Mexico City,1,8.0,341.565
+2025-01-07,ST007,Santiago Sport Center,Chile,Santiago,1,14.0,627.4150000000001
+2025-01-07,ST005,Panama Online Hub,Panama,Panama City,1,5.0,151.5
+2025-01-07,ST001,San Jose Central,Costa Rica,San José,1,1.0,29.9
+2025-01-08,ST001,San Jose Central,Costa Rica,San José,1,4.0,114.84
+2025-01-08,ST007,Santiago Sport Center,Chile,Santiago,1,3.0,112.235
+2025-01-09,ST007,Santiago Sport Center,Chile,Santiago,2,11.0,564.47
+2025-01-10,ST004,Bogota North,Colombia,Bogotá,1,9.0,455.12
+2025-01-10,ST007,Santiago Sport Center,Chile,Santiago,1,4.0,173.6
+2025-01-10,ST005,Panama Online Hub,Panama,Panama City,1,4.0,133.60000000000002
+2025-01-11,ST002,Escazu Outlet,Costa Rica,San José,1,13.0,722.13
+2025-01-11,ST005,Panama Online Hub,Panama,Panama City,2,22.0,635.345
+2025-01-11,ST004,Bogota North,Colombia,Bogotá,1,4.0,419.6
+2025-01-12,ST001,San Jose Central,Costa Rica,San José,1,14.0,309.59999999999997
+2025-01-12,ST002,Escazu Outlet,Costa Rica,San José,1,8.0,275.2
+2025-01-13,ST004,Bogota North,Colombia,Bogotá,1,13.0,513.72
+2025-01-13,ST003,Mexico City Reforma,Mexico,Mexico City,1,17.0,444.86999999999995
+2025-01-13,ST001,San Jose Central,Costa Rica,San José,1,7.0,184.29999999999998
+2025-01-14,ST003,Mexico City Reforma,Mexico,Mexico City,3,25.0,1303.5
+2025-01-14,ST006,Guatemala Mall,Guatemala,Guatemala City,1,4.0,50.04
+2025-01-15,ST007,Santiago Sport Center,Chile,Santiago,1,8.0,347.11
+2025-01-16,ST003,Mexico City Reforma,Mexico,Mexico City,1,3.0,329.70000000000005
+2025-01-16,ST002,Escazu Outlet,Costa Rica,San José,1,5.0,158.85
+2025-01-17,ST005,Panama Online Hub,Panama,Panama City,1,10.0,218.0
+2025-01-18,ST004,Bogota North,Colombia,Bogotá,3,29.0,917.0899999999999
+2025-01-18,ST007,Santiago Sport Center,Chile,Santiago,1,6.0,201.43
+2025-01-18,ST002,Escazu Outlet,Costa Rica,San José,1,7.0,190.29999999999998
+2025-01-18,ST006,Guatemala Mall,Guatemala,Guatemala City,1,5.0,111.15
+2025-01-19,ST005,Panama Online Hub,Panama,Panama City,1,11.0,291.6
+2025-01-19,ST001,San Jose Central,Costa Rica,San José,1,8.0,125.82000000000001
+2025-01-20,ST004,Bogota North,Colombia,Bogotá,1,2.0,59.8
+2025-01-21,ST004,Bogota North,Colombia,Bogotá,1,2.0,62.82
+2025-01-22,ST002,Escazu Outlet,Costa Rica,San José,1,9.0,226.1
+2025-01-23,ST003,Mexico City Reforma,Mexico,Mexico City,2,11.0,649.94
+2025-01-24,ST005,Panama Online Hub,Panama,Panama City,1,14.0,890.6
+2025-01-24,ST006,Guatemala Mall,Guatemala,Guatemala City,1,10.0,176.4
+2025-01-24,ST002,Escazu Outlet,Costa Rica,San José,1,2.0,58.5
+2025-01-25,ST003,Mexico City Reforma,Mexico,Mexico City,1,14.0,347.59999999999997
+2025-01-25,ST001,San Jose Central,Costa Rica,San José,1,7.0,152.3
+2025-01-25,ST002,Escazu Outlet,Costa Rica,San José,1,4.0,99.6
+2025-01-26,ST002,Escazu Outlet,Costa Rica,San José,2,16.0,444.59999999999997
+2025-01-26,ST005,Panama Online Hub,Panama,Panama City,1,6.0,216.8
+2025-01-27,ST004,Bogota North,Colombia,Bogotá,2,12.0,549.8800000000001
+2025-01-27,ST003,Mexico City Reforma,Mexico,Mexico City,1,12.0,437.76
+2025-01-27,ST006,Guatemala Mall,Guatemala,Guatemala City,1,12.0,370.79999999999995
+2025-01-28,ST002,Escazu Outlet,Costa Rica,San José,1,13.0,605.4300000000001
+2025-01-28,ST003,Mexico City Reforma,Mexico,Mexico City,1,4.0,116.6
+2025-01-29,ST005,Panama Online Hub,Panama,Panama City,1,10.0,361.79999999999995
+2025-01-29,ST006,Guatemala Mall,Guatemala,Guatemala City,1,9.0,247.58999999999997
+2025-01-29,ST001,San Jose Central,Costa Rica,San José,1,6.0,230.39999999999998
+2025-01-29,ST002,Escazu Outlet,Costa Rica,San José,1,2.0,60.66
+2025-01-29,ST007,Santiago Sport Center,Chile,Santiago,1,1.0,59.9
+2025-01-30,ST001,San Jose Central,Costa Rica,San José,1,14.0,988.7400000000001
+2025-01-30,ST005,Panama Online Hub,Panama,Panama City,1,10.0,261.0
+2025-01-30,ST006,Guatemala Mall,Guatemala,Guatemala City,1,2.0,85.8
+2025-01-30,ST002,Escazu Outlet,Costa Rica,San José,1,1.0,34.9
+2025-01-31,ST005,Panama Online Hub,Panama,Panama City,1,18.0,346.96
+2025-02-03,ST002,Escazu Outlet,Costa Rica,San José,1,15.0,1048.5
+2025-02-03,ST003,Mexico City Reforma,Mexico,Mexico City,1,15.0,486.56
+2025-02-03,ST004,Bogota North,Colombia,Bogotá,1,7.0,257.29999999999995
+2025-02-04,ST004,Bogota North,Colombia,Bogotá,1,16.0,614.95
+2025-02-05,ST006,Guatemala Mall,Guatemala,Guatemala City,1,7.0,149.29999999999998
+2025-02-05,ST001,San Jose Central,Costa Rica,San José,2,7.0,99.83
+2025-02-05,ST007,Santiago Sport Center,Chile,Santiago,1,3.0,35.7
+2025-02-07,ST004,Bogota North,Colombia,Bogotá,1,2.0,65.0
+2025-02-07,ST003,Mexico City Reforma,Mexico,Mexico City,1,5.0,57.230000000000004
+2025-02-08,ST007,Santiago Sport Center,Chile,Santiago,1,9.0,339.5
+2025-02-08,ST006,Guatemala Mall,Guatemala,Guatemala City,1,3.0,149.7
+2025-02-10,ST004,Bogota North,Colombia,Bogotá,1,5.0,393.50000000000006
+2025-02-10,ST005,Panama Online Hub,Panama,Panama City,1,2.0,69.8
+2025-02-11,ST007,Santiago Sport Center,Chile,Santiago,1,6.0,505.40000000000003
+2025-02-11,ST002,Escazu Outlet,Costa Rica,San José,1,14.0,446.80499999999995
+2025-02-12,ST002,Escazu Outlet,Costa Rica,San José,1,7.0,478.02500000000003
+2025-02-12,ST004,Bogota North,Colombia,Bogotá,1,7.0,140.3
+2025-02-13,ST007,Santiago Sport Center,Chile,Santiago,2,11.0,586.9200000000001
+2025-02-13,ST006,Guatemala Mall,Guatemala,Guatemala City,1,15.0,535.5200000000001
+2025-02-13,ST005,Panama Online Hub,Panama,Panama City,1,11.0,321.71999999999997
+2025-02-13,ST004,Bogota North,Colombia,Bogotá,1,4.0,127.6
+2025-02-14,ST006,Guatemala Mall,Guatemala,Guatemala City,3,23.0,1131.7
+2025-02-14,ST007,Santiago Sport Center,Chile,Santiago,1,8.0,487.20000000000005
+2025-02-14,ST003,Mexico City Reforma,Mexico,Mexico City,1,5.0,74.5
+2025-02-15,ST001,San Jose Central,Costa Rica,San José,1,15.0,752.5
+2025-02-15,ST004,Bogota North,Colombia,Bogotá,1,10.0,533.8000000000001
+2025-02-16,ST005,Panama Online Hub,Panama,Panama City,2,12.0,555.7750000000001
+2025-02-16,ST001,San Jose Central,Costa Rica,San José,1,11.0,438.1
+2025-02-16,ST006,Guatemala Mall,Guatemala,Guatemala City,1,12.0,380.8
+2025-02-16,ST007,Santiago Sport Center,Chile,Santiago,1,3.0,52.7
+2025-02-17,ST006,Guatemala Mall,Guatemala,Guatemala City,1,11.0,417.36
+2025-02-17,ST003,Mexico City Reforma,Mexico,Mexico City,1,6.0,133.39999999999998
+2025-02-18,ST006,Guatemala Mall,Guatemala,Guatemala City,1,7.0,441.30000000000007
+2025-02-19,ST006,Guatemala Mall,Guatemala,Guatemala City,1,1.0,89.9
+2025-02-20,ST005,Panama Online Hub,Panama,Panama City,2,24.0,745.4599999999999
+2025-02-20,ST006,Guatemala Mall,Guatemala,Guatemala City,2,9.0,690.1
+2025-02-22,ST006,Guatemala Mall,Guatemala,Guatemala City,1,15.0,413.5
+2025-02-23,ST002,Escazu Outlet,Costa Rica,San José,1,13.0,615.7
+2025-02-23,ST007,Santiago Sport Center,Chile,Santiago,1,7.0,501.30000000000007
+2025-02-23,ST001,San Jose Central,Costa Rica,San José,1,15.0,499.96
+2025-02-23,ST003,Mexico City Reforma,Mexico,Mexico City,1,4.0,479.6
+2025-02-23,ST005,Panama Online Hub,Panama,Panama City,1,9.0,201.09999999999997
+2025-02-24,ST006,Guatemala Mall,Guatemala,Guatemala City,1,14.0,667.065
+2025-02-24,ST001,San Jose Central,Costa Rica,San José,1,11.0,328.9
+2025-02-24,ST003,Mexico City Reforma,Mexico,Mexico City,1,6.0,175.39999999999998
+2025-02-25,ST001,San Jose Central,Costa Rica,San José,1,2.0,179.8
+2025-02-25,ST004,Bogota North,Colombia,Bogotá,1,4.0,104.8
+2025-02-25,ST005,Panama Online Hub,Panama,Panama City,1,3.0,59.699999999999996
+2025-02-26,ST002,Escazu Outlet,Costa Rica,San José,1,4.0,359.6
+2025-02-26,ST004,Bogota North,Colombia,Bogotá,1,9.0,162.41
+2025-02-28,ST005,Panama Online Hub,Panama,Panama City,2,21.0,1252.94
+2025-02-28,ST004,Bogota North,Colombia,Bogotá,1,7.0,277.25
+2025-03-01,ST006,Guatemala Mall,Guatemala,Guatemala City,1,14.0,851.3600000000001
+2025-03-01,ST002,Escazu Outlet,Costa Rica,San José,2,16.0,804.735
+2025-03-01,ST007,Santiago Sport Center,Chile,Santiago,1,6.0,175.39999999999998
+2025-03-02,ST007,Santiago Sport Center,Chile,Santiago,1,8.0,429.42
+2025-03-02,ST001,San Jose Central,Costa Rica,San José,2,8.0,276.245
+2025-03-03,ST003,Mexico City Reforma,Mexico,Mexico City,1,9.0,258.34
+2025-03-03,ST005,Panama Online Hub,Panama,Panama City,1,8.0,244.12
+2025-03-04,ST002,Escazu Outlet,Costa Rica,San José,4,42.0,1879.8400000000001
+2025-03-04,ST001,San Jose Central,Costa Rica,San José,1,10.0,459.00000000000006
+2025-03-04,ST007,Santiago Sport Center,Chile,Santiago,1,8.0,407.20000000000005
+2025-03-05,ST003,Mexico City Reforma,Mexico,Mexico City,2,15.0,409.625
+2025-03-06,ST004,Bogota North,Colombia,Bogotá,2,20.0,807.005
+2025-03-06,ST007,Santiago Sport Center,Chile,Santiago,1,4.0,111.6
+2025-03-07,ST001,San Jose Central,Costa Rica,San José,1,11.0,490.365
+2025-03-07,ST004,Bogota North,Colombia,Bogotá,1,7.0,391.30000000000007
+2025-03-08,ST007,Santiago Sport Center,Chile,Santiago,1,2.0,65.0
+2025-03-09,ST004,Bogota North,Colombia,Bogotá,1,10.0,542.0
+2025-03-09,ST003,Mexico City Reforma,Mexico,Mexico City,2,19.0,525.8249999999999
+2025-03-10,ST007,Santiago Sport Center,Chile,Santiago,1,13.0,484.7
+2025-03-12,ST001,San Jose Central,Costa Rica,San José,2,18.0,659.1999999999999
+2025-03-15,ST007,Santiago Sport Center,Chile,Santiago,1,9.0,265.12
+2025-03-15,ST003,Mexico City Reforma,Mexico,Mexico City,1,13.0,223.975
+2025-03-16,ST006,Guatemala Mall,Guatemala,Guatemala City,1,11.0,248.3
+2025-03-16,ST004,Bogota North,Colombia,Bogotá,1,3.0,97.495
+2025-03-17,ST004,Bogota North,Colombia,Bogotá,1,5.0,379.50000000000006
+2025-03-17,ST005,Panama Online Hub,Panama,Panama City,1,11.0,262.90000000000003
+2025-03-18,ST002,Escazu Outlet,Costa Rica,San José,1,5.0,242.01
+2025-03-19,ST007,Santiago Sport Center,Chile,Santiago,1,9.0,463.3
+2025-03-19,ST006,Guatemala Mall,Guatemala,Guatemala City,1,3.0,83.69999999999999
+2025-03-21,ST003,Mexico City Reforma,Mexico,Mexico City,1,5.0,138.125
+2025-03-21,ST006,Guatemala Mall,Guatemala,Guatemala City,1,4.0,118.6
+2025-03-21,ST001,San Jose Central,Costa Rica,San José,1,5.0,85.5
+2025-03-22,ST006,Guatemala Mall,Guatemala,Guatemala City,1,7.0,288.3
+2025-03-23,ST007,Santiago Sport Center,Chile,Santiago,1,13.0,406.1
+2025-03-23,ST006,Guatemala Mall,Guatemala,Guatemala City,1,9.0,322.515
+2025-03-24,ST003,Mexico City Reforma,Mexico,Mexico City,2,24.0,491.35
+2025-03-24,ST002,Escazu Outlet,Costa Rica,San José,2,13.0,366.7
+2025-03-24,ST004,Bogota North,Colombia,Bogotá,1,8.0,319.2
+2025-03-25,ST004,Bogota North,Colombia,Bogotá,1,16.0,611.49
+2025-03-25,ST001,San Jose Central,Costa Rica,San José,1,11.0,264.265
+2025-03-25,ST002,Escazu Outlet,Costa Rica,San José,1,5.0,130.5
+2025-03-25,ST007,Santiago Sport Center,Chile,Santiago,1,2.0,85.8
+2025-03-27,ST005,Panama Online Hub,Panama,Panama City,1,7.0,612.3000000000001
+2025-03-27,ST001,San Jose Central,Costa Rica,San José,1,2.0,59.8
+2025-03-29,ST007,Santiago Sport Center,Chile,Santiago,1,11.0,643.365
+2025-03-29,ST006,Guatemala Mall,Guatemala,Guatemala City,2,15.0,466.295
+2025-03-29,ST004,Bogota North,Colombia,Bogotá,1,3.0,179.7
+2025-03-29,ST001,San Jose Central,Costa Rica,San José,1,2.0,50.83
+2025-03-30,ST001,San Jose Central,Costa Rica,San José,1,7.0,375.72
+2025-03-30,ST002,Escazu Outlet,Costa Rica,San José,1,4.0,91.46
+2025-03-30,ST007,Santiago Sport Center,Chile,Santiago,1,4.0,46.6
+2025-03-31,ST007,Santiago Sport Center,Chile,Santiago,1,7.0,255.3
+2025-03-31,ST006,Guatemala Mall,Guatemala,Guatemala City,1,1.0,16.915
+2025-04-01,ST007,Santiago Sport Center,Chile,Santiago,2,9.0,311.1
+2025-04-01,ST003,Mexico City Reforma,Mexico,Mexico City,1,3.0,89.69999999999999
+2025-04-02,ST007,Santiago Sport Center,Chile,Santiago,1,10.0,359.64
+2025-04-02,ST005,Panama Online Hub,Panama,Panama City,1,7.0,153.1
+2025-04-03,ST002,Escazu Outlet,Costa Rica,San José,1,14.0,426.6
+2025-04-05,ST003,Mexico City Reforma,Mexico,Mexico City,1,12.0,702.8
+2025-04-05,ST002,Escazu Outlet,Costa Rica,San José,1,2.0,55.8
+2025-04-06,ST004,Bogota North,Colombia,Bogotá,1,11.0,328.7
+2025-04-06,ST007,Santiago Sport Center,Chile,Santiago,1,11.0,316.9
+2025-04-07,ST002,Escazu Outlet,Costa Rica,San José,2,20.0,854.9449999999999
+2025-04-07,ST007,Santiago Sport Center,Chile,Santiago,1,5.0,105.5
+2025-04-08,ST005,Panama Online Hub,Panama,Panama City,1,2.0,106.80000000000001
+2025-04-09,ST007,Santiago Sport Center,Chile,Santiago,1,10.0,707.0
+2025-04-09,ST005,Panama Online Hub,Panama,Panama City,2,18.0,570.1999999999999
+2025-04-09,ST002,Escazu Outlet,Costa Rica,San José,1,10.0,313.405
+2025-04-09,ST004,Bogota North,Colombia,Bogotá,1,3.0,74.69999999999999
+2025-04-09,ST001,San Jose Central,Costa Rica,San José,1,3.0,41.7
+2025-04-10,ST006,Guatemala Mall,Guatemala,Guatemala City,1,6.0,285.4
+2025-04-11,ST007,Santiago Sport Center,Chile,Santiago,1,8.0,249.2
+2025-04-11,ST002,Escazu Outlet,Costa Rica,San José,1,4.0,63.6
+2025-04-12,ST005,Panama Online Hub,Panama,Panama City,1,4.0,439.6
+2025-04-13,ST004,Bogota North,Colombia,Bogotá,2,24.0,1227.26
+2025-04-14,ST006,Guatemala Mall,Guatemala,Guatemala City,2,7.0,169.1
+2025-04-15,ST004,Bogota North,Colombia,Bogotá,2,20.0,584.4799999999999
+2025-04-15,ST007,Santiago Sport Center,Chile,Santiago,1,11.0,322.645
+2025-04-15,ST001,San Jose Central,Costa Rica,San José,1,1.0,10.9
+2025-04-16,ST003,Mexico City Reforma,Mexico,Mexico City,1,12.0,1041.8000000000002
+2025-04-17,ST006,Guatemala Mall,Guatemala,Guatemala City,1,8.0,235.2
+2025-04-17,ST003,Mexico City Reforma,Mexico,Mexico City,1,8.0,156.2
+2025-04-18,ST003,Mexico City Reforma,Mexico,Mexico City,1,9.0,322.1
+2025-04-19,ST006,Guatemala Mall,Guatemala,Guatemala City,1,8.0,609.6
+2025-04-19,ST002,Escazu Outlet,Costa Rica,San José,1,13.0,560.7
+2025-04-19,ST005,Panama Online Hub,Panama,Panama City,1,7.0,280.29999999999995
+2025-04-20,ST002,Escazu Outlet,Costa Rica,San José,1,11.0,379.9
+2025-04-20,ST007,Santiago Sport Center,Chile,Santiago,1,11.0,313.215
+2025-04-20,ST006,Guatemala Mall,Guatemala,Guatemala City,1,5.0,211.5
+2025-04-22,ST003,Mexico City Reforma,Mexico,Mexico City,3,22.0,668.66
+2025-04-23,ST003,Mexico City Reforma,Mexico,Mexico City,1,2.0,28.799999999999997
+2025-04-24,ST006,Guatemala Mall,Guatemala,Guatemala City,1,13.0,566.1500000000001
+2025-04-25,ST004,Bogota North,Colombia,Bogotá,1,14.0,611.0300000000001
+2025-04-25,ST002,Escazu Outlet,Costa Rica,San José,2,12.0,472.79999999999995
+2025-04-25,ST001,San Jose Central,Costa Rica,San José,1,13.0,465.7
+2025-04-26,ST007,Santiago Sport Center,Chile,Santiago,2,17.0,483.395
+2025-04-27,ST004,Bogota North,Colombia,Bogotá,1,3.0,104.69999999999999
+2025-04-27,ST002,Escazu Outlet,Costa Rica,San José,1,3.0,76.24499999999999
+2025-04-28,ST003,Mexico City Reforma,Mexico,Mexico City,1,15.0,930.5
+2025-04-28,ST004,Bogota North,Colombia,Bogotá,1,5.0,157.5
+2025-04-29,ST002,Escazu Outlet,Costa Rica,San José,2,12.0,594.8000000000001
+2025-04-30,ST005,Panama Online Hub,Panama,Panama City,2,16.0,595.4
+2025-04-30,ST003,Mexico City Reforma,Mexico,Mexico City,1,7.0,249.29999999999998
+2025-04-30,ST001,San Jose Central,Costa Rica,San José,1,4.0,111.6
+2025-05-01,ST005,Panama Online Hub,Panama,Panama City,2,24.0,983.6
+2025-05-01,ST004,Bogota North,Colombia,Bogotá,2,10.0,506.06
+2025-05-01,ST006,Guatemala Mall,Guatemala,Guatemala City,1,11.0,270.9
+2025-05-02,ST003,Mexico City Reforma,Mexico,Mexico City,1,10.0,618.515
+2025-05-02,ST005,Panama Online Hub,Panama,Panama City,1,11.0,527.265
+2025-05-03,ST007,Santiago Sport Center,Chile,Santiago,1,8.0,173.2
+2025-05-03,ST002,Escazu Outlet,Costa Rica,San José,1,4.0,46.41
+2025-05-04,ST005,Panama Online Hub,Panama,Panama City,1,7.0,395.36
+2025-05-05,ST002,Escazu Outlet,Costa Rica,San José,1,3.0,359.70000000000005
+2025-05-06,ST003,Mexico City Reforma,Mexico,Mexico City,1,5.0,399.5
+2025-05-07,ST006,Guatemala Mall,Guatemala,Guatemala City,1,15.0,822.63
+2025-05-07,ST005,Panama Online Hub,Panama,Panama City,1,7.0,201.29999999999998
+2025-05-08,ST005,Panama Online Hub,Panama,Panama City,1,5.0,67.255
+2025-05-08,ST001,San Jose Central,Costa Rica,San José,1,1.0,11.9
+2025-05-09,ST002,Escazu Outlet,Costa Rica,San José,1,6.0,428.40000000000003
+2025-05-09,ST004,Bogota North,Colombia,Bogotá,1,3.0,89.69999999999999
+2025-05-12,ST001,San Jose Central,Costa Rica,San José,1,14.0,566.6
+2025-05-13,ST006,Guatemala Mall,Guatemala,Guatemala City,2,19.0,862.12
+2025-05-13,ST005,Panama Online Hub,Panama,Panama City,1,4.0,99.6
+2025-05-14,ST002,Escazu Outlet,Costa Rica,San José,1,11.0,249.82999999999998
+2025-05-15,ST007,Santiago Sport Center,Chile,Santiago,2,18.0,765.62
+2025-05-15,ST001,San Jose Central,Costa Rica,San José,1,13.0,487.256
+2025-05-15,ST003,Mexico City Reforma,Mexico,Mexico City,1,13.0,251.7
+2025-05-15,ST002,Escazu Outlet,Costa Rica,San José,1,6.0,167.39999999999998
+2025-05-16,ST002,Escazu Outlet,Costa Rica,San José,1,6.0,262.592
+2025-05-17,ST006,Guatemala Mall,Guatemala,Guatemala City,1,13.0,472.29600000000005
+2025-05-17,ST001,San Jose Central,Costa Rica,San José,1,10.0,471.68
+2025-05-18,ST006,Guatemala Mall,Guatemala,Guatemala City,1,13.0,717.7
+2025-05-18,ST004,Bogota North,Colombia,Bogotá,1,11.0,502.9
+2025-05-18,ST001,San Jose Central,Costa Rica,San José,1,6.0,195.4
+2025-05-19,ST006,Guatemala Mall,Guatemala,Guatemala City,2,19.0,838.0999999999999
+2025-05-19,ST003,Mexico City Reforma,Mexico,Mexico City,2,15.0,736.5
+2025-05-19,ST005,Panama Online Hub,Panama,Panama City,1,5.0,190.82500000000002
+2025-05-19,ST004,Bogota North,Colombia,Bogotá,1,6.0,133.39999999999998
+2025-05-20,ST007,Santiago Sport Center,Chile,Santiago,1,12.0,908.8
+2025-05-20,ST001,San Jose Central,Costa Rica,San José,1,13.0,494.296
+2025-05-21,ST005,Panama Online Hub,Panama,Panama City,2,18.0,629.8240000000001
+2025-05-21,ST006,Guatemala Mall,Guatemala,Guatemala City,1,12.0,601.744
+2025-05-21,ST004,Bogota North,Colombia,Bogotá,1,7.0,581.9440000000001
+2025-05-21,ST003,Mexico City Reforma,Mexico,Mexico City,1,9.0,225.1
+2025-05-21,ST001,San Jose Central,Costa Rica,San José,1,9.0,211.28799999999998
+2025-05-22,ST003,Mexico City Reforma,Mexico,Mexico City,1,12.0,286.70399999999995
+2025-05-23,ST007,Santiago Sport Center,Chile,Santiago,1,6.0,140.39999999999998
+2025-05-24,ST005,Panama Online Hub,Panama,Panama City,1,4.0,338.44800000000004
+2025-05-25,ST001,San Jose Central,Costa Rica,San José,2,12.0,463.068
+2025-05-25,ST002,Escazu Outlet,Costa Rica,San José,1,3.0,44.7
+2025-05-26,ST005,Panama Online Hub,Panama,Panama City,1,10.0,537.6800000000001
+2025-05-26,ST006,Guatemala Mall,Guatemala,Guatemala City,1,4.0,173.6
+2025-05-27,ST001,San Jose Central,Costa Rica,San José,1,17.0,778.835
+2025-05-27,ST002,Escazu Outlet,Costa Rica,San José,1,5.0,249.5
+2025-05-29,ST002,Escazu Outlet,Costa Rica,San José,1,12.0,754.8
+2025-05-29,ST004,Bogota North,Colombia,Bogotá,1,10.0,268.815
+2025-05-31,ST001,San Jose Central,Costa Rica,San José,2,10.0,486.592
+2025-05-31,ST006,Guatemala Mall,Guatemala,Guatemala City,1,6.0,179.39999999999998
+2025-06-01,ST006,Guatemala Mall,Guatemala,Guatemala City,1,12.0,359.74399999999997
+2025-06-01,ST003,Mexico City Reforma,Mexico,Mexico City,1,12.0,270.864
+2025-06-02,ST004,Bogota North,Colombia,Bogotá,1,6.0,521.4
+2025-06-02,ST006,Guatemala Mall,Guatemala,Guatemala City,2,12.0,337.4
+2025-06-03,ST001,San Jose Central,Costa Rica,San José,1,11.0,445.9000000000001
+2025-06-03,ST006,Guatemala Mall,Guatemala,Guatemala City,1,3.0,131.736
+2025-06-04,ST007,Santiago Sport Center,Chile,Santiago,2,21.0,621.9399999999999
+2025-06-04,ST003,Mexico City Reforma,Mexico,Mexico City,1,4.0,99.6
+2025-06-05,ST003,Mexico City Reforma,Mexico,Mexico City,1,3.0,50.699999999999996
+2025-06-05,ST005,Panama Online Hub,Panama,Panama City,1,3.0,29.430000000000003
+2025-06-06,ST002,Escazu Outlet,Costa Rica,San José,1,6.0,228.272
+2025-06-07,ST002,Escazu Outlet,Costa Rica,San José,1,5.0,170.27999999999997
+2025-06-07,ST004,Bogota North,Colombia,Bogotá,1,3.0,41.976000000000006
+2025-06-08,ST004,Bogota North,Colombia,Bogotá,1,10.0,336.15999999999997
+2025-06-08,ST006,Guatemala Mall,Guatemala,Guatemala City,1,16.0,250.272
+2025-06-08,ST002,Escazu Outlet,Costa Rica,San José,1,2.0,59.8
+2025-06-09,ST005,Panama Online Hub,Panama,Panama City,1,4.0,316.44800000000004
+2025-06-09,ST007,Santiago Sport Center,Chile,Santiago,1,9.0,215.1
+2025-06-10,ST003,Mexico City Reforma,Mexico,Mexico City,2,15.0,746.5
+2025-06-10,ST002,Escazu Outlet,Costa Rica,San José,1,7.0,659.384
+2025-06-11,ST002,Escazu Outlet,Costa Rica,San José,1,15.0,768.1
+2025-06-12,ST007,Santiago Sport Center,Chile,Santiago,2,19.0,1372.9
+2025-06-13,ST004,Bogota North,Colombia,Bogotá,1,7.0,172.29999999999998
+2025-06-13,ST002,Escazu Outlet,Costa Rica,San José,1,7.0,171.86399999999998
+2025-06-14,ST005,Panama Online Hub,Panama,Panama City,1,6.0,430.672
+2025-06-14,ST006,Guatemala Mall,Guatemala,Guatemala City,1,10.0,293.03999999999996
+2025-06-14,ST003,Mexico City Reforma,Mexico,Mexico City,1,5.0,177.5
+2025-06-15,ST005,Panama Online Hub,Panama,Panama City,1,8.0,231.49499999999998
+2025-06-16,ST007,Santiago Sport Center,Chile,Santiago,1,14.0,778.6
+2025-06-16,ST003,Mexico City Reforma,Mexico,Mexico City,1,14.0,568.5999999999999
+2025-06-17,ST003,Mexico City Reforma,Mexico,Mexico City,1,3.0,115.7
+2025-06-18,ST003,Mexico City Reforma,Mexico,Mexico City,1,10.0,374.0
+2025-06-19,ST002,Escazu Outlet,Costa Rica,San José,2,21.0,1244.9
+2025-06-19,ST004,Bogota North,Colombia,Bogotá,1,2.0,21.8
+2025-06-20,ST003,Mexico City Reforma,Mexico,Mexico City,1,7.0,424.81500000000005
+2025-06-20,ST007,Santiago Sport Center,Chile,Santiago,1,6.0,264.43
+2025-06-21,ST004,Bogota North,Colombia,Bogotá,1,7.0,320.31
+2025-06-23,ST006,Guatemala Mall,Guatemala,Guatemala City,2,23.0,1303.7
+2025-06-24,ST006,Guatemala Mall,Guatemala,Guatemala City,1,2.0,29.8
+2025-06-25,ST007,Santiago Sport Center,Chile,Santiago,1,11.0,410.9
+2025-06-25,ST006,Guatemala Mall,Guatemala,Guatemala City,1,5.0,359.5
+2025-06-25,ST001,San Jose Central,Costa Rica,San José,1,14.0,316.8
+2025-06-26,ST004,Bogota North,Colombia,Bogotá,1,13.0,511.7
+2025-06-26,ST002,Escazu Outlet,Costa Rica,San José,1,1.0,42.9
+2025-06-27,ST003,Mexico City Reforma,Mexico,Mexico City,1,11.0,616.625
+2025-06-27,ST004,Bogota North,Colombia,Bogotá,1,14.0,463.365
+2025-06-28,ST002,Escazu Outlet,Costa Rica,San José,1,7.0,185.29999999999998
+2025-06-28,ST006,Guatemala Mall,Guatemala,Guatemala City,1,6.0,169.4
+2025-06-29,ST005,Panama Online Hub,Panama,Panama City,1,4.0,139.6
+2025-06-30,ST005,Panama Online Hub,Panama,Panama City,1,10.0,319.99999999999994
+2025-06-30,ST006,Guatemala Mall,Guatemala,Guatemala City,1,3.0,164.7
+2025-07-01,ST007,Santiago Sport Center,Chile,Santiago,2,16.0,996.4000000000001
+2025-07-01,ST002,Escazu Outlet,Costa Rica,San José,1,3.0,93.69999999999999
+2025-07-02,ST002,Escazu Outlet,Costa Rica,San José,1,9.0,340.31
+2025-07-02,ST003,Mexico City Reforma,Mexico,Mexico City,1,5.0,320.505
+2025-07-02,ST004,Bogota North,Colombia,Bogotá,1,4.0,71.6
+2025-07-03,ST007,Santiago Sport Center,Chile,Santiago,1,3.0,95.69999999999999
+2025-07-04,ST002,Escazu Outlet,Costa Rica,San José,2,16.0,524.4
+2025-07-04,ST004,Bogota North,Colombia,Bogotá,2,8.0,462.2
+2025-07-04,ST001,San Jose Central,Costa Rica,San José,1,9.0,390.1
+2025-07-04,ST003,Mexico City Reforma,Mexico,Mexico City,1,4.0,119.6
+2025-07-05,ST003,Mexico City Reforma,Mexico,Mexico City,1,12.0,368.81
+2025-07-05,ST006,Guatemala Mall,Guatemala,Guatemala City,1,3.0,102.69999999999999
+2025-07-06,ST007,Santiago Sport Center,Chile,Santiago,1,11.0,340.1
+2025-07-06,ST001,San Jose Central,Costa Rica,San José,1,11.0,174.9
+2025-07-07,ST004,Bogota North,Colombia,Bogotá,1,13.0,320.7
+2025-07-07,ST002,Escazu Outlet,Costa Rica,San José,1,4.0,145.6
+2025-07-08,ST006,Guatemala Mall,Guatemala,Guatemala City,1,7.0,579.3000000000001
+2025-07-08,ST002,Escazu Outlet,Costa Rica,San José,1,12.0,520.42
+2025-07-08,ST004,Bogota North,Colombia,Bogotá,1,6.0,77.4
+2025-07-09,ST004,Bogota North,Colombia,Bogotá,1,7.0,438.83000000000004
+2025-07-09,ST007,Santiago Sport Center,Chile,Santiago,1,7.0,301.3
+2025-07-09,ST005,Panama Online Hub,Panama,Panama City,1,2.0,29.8
+2025-07-10,ST007,Santiago Sport Center,Chile,Santiago,1,10.0,732.0
+2025-07-10,ST003,Mexico City Reforma,Mexico,Mexico City,1,7.0,287.3
+2025-07-10,ST005,Panama Online Hub,Panama,Panama City,1,9.0,272.1
+2025-07-10,ST004,Bogota North,Colombia,Bogotá,1,9.0,169.1
+2025-07-11,ST006,Guatemala Mall,Guatemala,Guatemala City,1,8.0,421.21000000000004
+2025-07-11,ST003,Mexico City Reforma,Mexico,Mexico City,1,12.0,328.79999999999995
+2025-07-11,ST005,Panama Online Hub,Panama,Panama City,1,9.0,252.09999999999997
+2025-07-12,ST005,Panama Online Hub,Panama,Panama City,1,10.0,473.51
+2025-07-12,ST002,Escazu Outlet,Costa Rica,San José,1,6.0,249.4
+2025-07-12,ST003,Mexico City Reforma,Mexico,Mexico City,1,6.0,148.23
+2025-07-13,ST004,Bogota North,Colombia,Bogotá,2,9.0,143.7
+2025-07-13,ST002,Escazu Outlet,Costa Rica,San José,1,3.0,59.515
+2025-07-15,ST005,Panama Online Hub,Panama,Panama City,1,10.0,428.015
+2025-07-15,ST003,Mexico City Reforma,Mexico,Mexico City,1,9.0,399.1
+2025-07-17,ST002,Escazu Outlet,Costa Rica,San José,1,10.0,611.0
+2025-07-17,ST005,Panama Online Hub,Panama,Panama City,2,11.0,368.365
+2025-07-19,ST001,San Jose Central,Costa Rica,San José,1,14.0,487.6
+2025-07-19,ST002,Escazu Outlet,Costa Rica,San José,1,7.0,456.3
+2025-07-19,ST007,Santiago Sport Center,Chile,Santiago,1,5.0,390.1
+2025-07-19,ST004,Bogota North,Colombia,Bogotá,1,8.0,333.20000000000005
+2025-07-19,ST005,Panama Online Hub,Panama,Panama City,1,4.0,59.6
+2025-07-20,ST002,Escazu Outlet,Costa Rica,San José,1,12.0,406.83
+2025-07-20,ST005,Panama Online Hub,Panama,Panama City,1,9.0,227.09999999999997
+2025-07-21,ST001,San Jose Central,Costa Rica,San José,1,10.0,317.0
+2025-07-21,ST003,Mexico City Reforma,Mexico,Mexico City,1,4.0,155.05
+2025-07-22,ST006,Guatemala Mall,Guatemala,Guatemala City,1,11.0,635.9
+2025-07-22,ST005,Panama Online Hub,Panama,Panama City,1,12.0,535.8000000000001
+2025-07-23,ST005,Panama Online Hub,Panama,Panama City,1,12.0,408.8
+2025-07-23,ST007,Santiago Sport Center,Chile,Santiago,1,1.0,42.9
+2025-07-24,ST002,Escazu Outlet,Costa Rica,San José,1,9.0,154.34
+2025-07-25,ST005,Panama Online Hub,Panama,Panama City,1,13.0,451.23
+2025-07-25,ST002,Escazu Outlet,Costa Rica,San José,1,2.0,22.8
+2025-07-26,ST004,Bogota North,Colombia,Bogotá,1,12.0,370.79999999999995
+2025-07-26,ST002,Escazu Outlet,Costa Rica,San José,1,8.0,367.2
+2025-07-27,ST002,Escazu Outlet,Costa Rica,San José,1,6.0,383.40000000000003
+2025-07-27,ST007,Santiago Sport Center,Chile,Santiago,1,5.0,199.5
+2025-07-27,ST001,San Jose Central,Costa Rica,San José,1,4.0,87.6
+2025-07-28,ST001,San Jose Central,Costa Rica,San José,1,10.0,571.0
+2025-07-28,ST005,Panama Online Hub,Panama,Panama City,1,10.0,405.62
+2025-07-29,ST004,Bogota North,Colombia,Bogotá,2,20.0,889.4000000000001
+2025-07-29,ST002,Escazu Outlet,Costa Rica,San José,1,14.0,467.6
+2025-07-29,ST007,Santiago Sport Center,Chile,Santiago,1,9.0,226.12
+2025-07-30,ST006,Guatemala Mall,Guatemala,Guatemala City,2,14.0,678.65
+2025-07-30,ST007,Santiago Sport Center,Chile,Santiago,1,12.0,212.265
+2025-07-30,ST002,Escazu Outlet,Costa Rica,San José,1,3.0,47.7
+2025-07-31,ST002,Escazu Outlet,Costa Rica,San José,1,12.0,888.8000000000001
+2025-08-01,ST006,Guatemala Mall,Guatemala,Guatemala City,1,13.0,553.0999999999999
+2025-08-04,ST004,Bogota North,Colombia,Bogotá,1,13.0,679.7
+2025-08-04,ST003,Mexico City Reforma,Mexico,Mexico City,1,4.0,59.6
+2025-08-05,ST001,San Jose Central,Costa Rica,San José,1,6.0,150.39999999999998
+2025-08-05,ST007,Santiago Sport Center,Chile,Santiago,1,3.0,38.160000000000004
+2025-08-06,ST007,Santiago Sport Center,Chile,Santiago,1,5.0,247.60000000000002
+2025-08-06,ST002,Escazu Outlet,Costa Rica,San José,1,1.0,14.9
+2025-08-08,ST005,Panama Online Hub,Panama,Panama City,2,8.0,420.2200000000001
+2025-08-08,ST003,Mexico City Reforma,Mexico,Mexico City,1,8.0,288.16
+2025-08-09,ST002,Escazu Outlet,Costa Rica,San José,2,22.0,1146.6000000000001
+2025-08-09,ST005,Panama Online Hub,Panama,Panama City,1,10.0,299.2
+2025-08-09,ST003,Mexico City Reforma,Mexico,Mexico City,1,5.0,127.49999999999999
+2025-08-10,ST007,Santiago Sport Center,Chile,Santiago,2,19.0,1275.665
+2025-08-10,ST002,Escazu Outlet,Costa Rica,San José,1,15.0,496.40000000000003
+2025-08-10,ST006,Guatemala Mall,Guatemala,Guatemala City,1,3.0,359.70000000000005
+2025-08-10,ST004,Bogota North,Colombia,Bogotá,1,8.0,147.21
+2025-08-11,ST002,Escazu Outlet,Costa Rica,San José,1,2.0,239.8
+2025-08-12,ST006,Guatemala Mall,Guatemala,Guatemala City,2,14.0,721.6
+2025-08-12,ST007,Santiago Sport Center,Chile,Santiago,1,11.0,561.9
+2025-08-12,ST004,Bogota North,Colombia,Bogotá,1,4.0,234.6
+2025-08-12,ST003,Mexico City Reforma,Mexico,Mexico City,1,7.0,189.29999999999998
+2025-08-13,ST007,Santiago Sport Center,Chile,Santiago,1,8.0,280.2
+2025-08-13,ST004,Bogota North,Colombia,Bogotá,1,2.0,179.8
+2025-08-14,ST005,Panama Online Hub,Panama,Panama City,3,17.0,756.3
+2025-08-14,ST006,Guatemala Mall,Guatemala,Guatemala City,1,9.0,190.03
+2025-08-14,ST001,San Jose Central,Costa Rica,San José,1,4.0,63.599999999999994
+2025-08-15,ST006,Guatemala Mall,Guatemala,Guatemala City,1,3.0,175.7
+2025-08-16,ST005,Panama Online Hub,Panama,Panama City,1,12.0,268.44
+2025-08-16,ST001,San Jose Central,Costa Rica,San José,1,3.0,63.05
+2025-08-16,ST002,Escazu Outlet,Costa Rica,San José,1,2.0,38.8
+2025-08-17,ST001,San Jose Central,Costa Rica,San José,1,13.0,325.7
+2025-08-18,ST003,Mexico City Reforma,Mexico,Mexico City,1,5.0,152.1
+2025-08-19,ST007,Santiago Sport Center,Chile,Santiago,1,13.0,888.7
+2025-08-19,ST006,Guatemala Mall,Guatemala,Guatemala City,1,2.0,23.8
+2025-08-20,ST006,Guatemala Mall,Guatemala,Guatemala City,1,15.0,630.54
+2025-08-20,ST005,Panama Online Hub,Panama,Panama City,1,1.0,49.9
+2025-08-21,ST005,Panama Online Hub,Panama,Panama City,1,14.0,345.65999999999997
+2025-08-21,ST004,Bogota North,Colombia,Bogotá,1,9.0,332.11499999999995
+2025-08-22,ST003,Mexico City Reforma,Mexico,Mexico City,1,4.0,56.51
+2025-08-23,ST007,Santiago Sport Center,Chile,Santiago,1,6.0,201.4
+2025-08-23,ST001,San Jose Central,Costa Rica,San José,1,10.0,167.0
+2025-08-23,ST003,Mexico City Reforma,Mexico,Mexico City,1,6.0,163.39999999999998
+2025-08-24,ST006,Guatemala Mall,Guatemala,Guatemala City,1,14.0,654.6
+2025-08-24,ST005,Panama Online Hub,Panama,Panama City,2,10.0,401.21500000000003
+2025-08-24,ST003,Mexico City Reforma,Mexico,Mexico City,1,1.0,17.9
+2025-08-25,ST004,Bogota North,Colombia,Bogotá,1,8.0,157.2
+2025-08-25,ST005,Panama Online Hub,Panama,Panama City,1,4.0,79.6
+2025-08-26,ST006,Guatemala Mall,Guatemala,Guatemala City,1,14.0,464.59999999999997
+2025-08-26,ST002,Escazu Outlet,Costa Rica,San José,1,10.0,248.215
+2025-08-26,ST007,Santiago Sport Center,Chile,Santiago,1,11.0,208.7
+2025-08-27,ST002,Escazu Outlet,Costa Rica,San José,1,13.0,623.76
+2025-08-27,ST003,Mexico City Reforma,Mexico,Mexico City,1,13.0,475.40999999999997
+2025-08-28,ST002,Escazu Outlet,Costa Rica,San José,2,16.0,496.82
+2025-08-29,ST001,San Jose Central,Costa Rica,San José,1,14.0,494.59999999999997
+2025-08-29,ST003,Mexico City Reforma,Mexico,Mexico City,1,5.0,229.5
+2025-08-29,ST004,Bogota North,Colombia,Bogotá,1,6.0,214.46
+2025-08-29,ST007,Santiago Sport Center,Chile,Santiago,1,2.0,33.8
+2025-08-30,ST007,Santiago Sport Center,Chile,Santiago,1,13.0,548.7
+2025-08-30,ST002,Escazu Outlet,Costa Rica,San José,1,9.0,491.1000000000001
+2025-08-30,ST004,Bogota North,Colombia,Bogotá,1,1.0,29.9
+2025-08-31,ST001,San Jose Central,Costa Rica,San José,2,12.0,482.83
+2025-08-31,ST003,Mexico City Reforma,Mexico,Mexico City,2,11.0,304.9
+2025-08-31,ST004,Bogota North,Colombia,Bogotá,1,6.0,98.4
+2025-09-01,ST006,Guatemala Mall,Guatemala,Guatemala City,1,8.0,234.2
+2025-09-01,ST001,San Jose Central,Costa Rica,San José,1,7.0,139.5
+2025-09-02,ST003,Mexico City Reforma,Mexico,Mexico City,2,14.0,291.62
+2025-09-02,ST006,Guatemala Mall,Guatemala,Guatemala City,1,8.0,289.2
+2025-09-02,ST001,San Jose Central,Costa Rica,San José,1,5.0,174.5
+2025-09-03,ST005,Panama Online Hub,Panama,Panama City,1,11.0,718.665
+2025-09-03,ST002,Escazu Outlet,Costa Rica,San José,1,2.0,66.30999999999999
+2025-09-04,ST001,San Jose Central,Costa Rica,San José,1,7.0,360.3
+2025-09-04,ST006,Guatemala Mall,Guatemala,Guatemala City,1,5.0,98.5
+2025-09-05,ST002,Escazu Outlet,Costa Rica,San José,3,32.0,1419.9650000000001
+2025-09-06,ST003,Mexico City Reforma,Mexico,Mexico City,1,12.0,680.8000000000001
+2025-09-06,ST004,Bogota North,Colombia,Bogotá,1,1.0,89.9
+2025-09-07,ST006,Guatemala Mall,Guatemala,Guatemala City,1,10.0,535.6
+2025-09-08,ST003,Mexico City Reforma,Mexico,Mexico City,1,6.0,216.4
+2025-09-09,ST007,Santiago Sport Center,Chile,Santiago,1,5.0,222.02999999999997
+2025-09-09,ST004,Bogota North,Colombia,Bogotá,1,1.0,10.9
+2025-09-10,ST007,Santiago Sport Center,Chile,Santiago,1,10.0,635.0
+2025-09-11,ST002,Escazu Outlet,Costa Rica,San José,2,18.0,705.995
+2025-09-11,ST007,Santiago Sport Center,Chile,Santiago,1,3.0,97.5
+2025-09-12,ST006,Guatemala Mall,Guatemala,Guatemala City,1,10.0,142.82
+2025-09-13,ST007,Santiago Sport Center,Chile,Santiago,3,35.0,1633.145
+2025-09-13,ST003,Mexico City Reforma,Mexico,Mexico City,1,12.0,305.79999999999995
+2025-09-13,ST006,Guatemala Mall,Guatemala,Guatemala City,1,4.0,119.6
+2025-09-14,ST006,Guatemala Mall,Guatemala,Guatemala City,1,8.0,283.2
+2025-09-16,ST001,San Jose Central,Costa Rica,San José,1,7.0,369.29999999999995
+2025-09-16,ST004,Bogota North,Colombia,Bogotá,1,13.0,353.7
+2025-09-16,ST006,Guatemala Mall,Guatemala,Guatemala City,1,7.0,200.3
+2025-09-17,ST004,Bogota North,Colombia,Bogotá,1,8.0,179.2
+2025-09-18,ST004,Bogota North,Colombia,Bogotá,1,8.0,170.44
+2025-09-18,ST002,Escazu Outlet,Costa Rica,San José,1,4.0,107.6
+2025-09-19,ST001,San Jose Central,Costa Rica,San José,1,7.0,389.29999999999995
+2025-09-21,ST002,Escazu Outlet,Costa Rica,San José,1,15.0,727.63
+2025-09-21,ST005,Panama Online Hub,Panama,Panama City,3,9.0,205.755
+2025-09-21,ST007,Santiago Sport Center,Chile,Santiago,1,4.0,97.03
+2025-09-22,ST004,Bogota North,Colombia,Bogotá,1,12.0,674.8000000000001
+2025-09-23,ST004,Bogota North,Colombia,Bogotá,2,8.0,467.20000000000005
+2025-09-23,ST007,Santiago Sport Center,Chile,Santiago,1,9.0,383.7
+2025-09-23,ST003,Mexico City Reforma,Mexico,Mexico City,1,4.0,139.6
+2025-09-24,ST003,Mexico City Reforma,Mexico,Mexico City,1,9.0,623.1
+2025-09-24,ST004,Bogota North,Colombia,Bogotá,1,15.0,401.5
+2025-09-24,ST005,Panama Online Hub,Panama,Panama City,1,10.0,346.0
+2025-09-24,ST007,Santiago Sport Center,Chile,Santiago,1,12.0,268.44
+2025-09-24,ST006,Guatemala Mall,Guatemala,Guatemala City,1,4.0,100.6
+2025-09-25,ST007,Santiago Sport Center,Chile,Santiago,1,8.0,679.2
+2025-09-25,ST002,Escazu Outlet,Costa Rica,San José,1,13.0,479.70000000000005
+2025-09-25,ST005,Panama Online Hub,Panama,Panama City,1,7.0,476.065
+2025-09-25,ST001,San Jose Central,Costa Rica,San José,1,8.0,293.79999999999995
+2025-09-25,ST003,Mexico City Reforma,Mexico,Mexico City,1,3.0,164.7
+2025-09-26,ST003,Mexico City Reforma,Mexico,Mexico City,2,3.0,269.70000000000005
+2025-09-26,ST004,Bogota North,Colombia,Bogotá,2,2.0,54.8
+2025-09-27,ST002,Escazu Outlet,Costa Rica,San José,1,12.0,522.6
+2025-09-29,ST004,Bogota North,Colombia,Bogotá,1,12.0,911.83
+2025-09-29,ST005,Panama Online Hub,Panama,Panama City,3,18.0,651.2
+2025-09-30,ST006,Guatemala Mall,Guatemala,Guatemala City,1,15.0,755.5
+2025-09-30,ST005,Panama Online Hub,Panama,Panama City,1,8.0,123.2
+2025-10-01,ST001,San Jose Central,Costa Rica,San José,1,11.0,674.9
+2025-10-01,ST002,Escazu Outlet,Costa Rica,San José,1,6.0,524.4000000000001
+2025-10-01,ST006,Guatemala Mall,Guatemala,Guatemala City,1,4.0,72.53
+2025-10-02,ST001,San Jose Central,Costa Rica,San José,1,11.0,308.7
+2025-10-02,ST004,Bogota North,Colombia,Bogotá,1,6.0,255.39999999999998
+2025-10-02,ST007,Santiago Sport Center,Chile,Santiago,1,2.0,35.82
+2025-10-03,ST007,Santiago Sport Center,Chile,Santiago,1,7.0,563.72
+2025-10-04,ST007,Santiago Sport Center,Chile,Santiago,1,10.0,740.0
+2025-10-06,ST002,Escazu Outlet,Costa Rica,San José,1,11.0,524.96
+2025-10-06,ST006,Guatemala Mall,Guatemala,Guatemala City,1,12.0,502.34
+2025-10-07,ST006,Guatemala Mall,Guatemala,Guatemala City,1,6.0,341.445
+2025-10-07,ST002,Escazu Outlet,Costa Rica,San José,1,3.0,93.69999999999999
+2025-10-08,ST003,Mexico City Reforma,Mexico,Mexico City,1,15.0,730.3000000000001
+2025-10-08,ST002,Escazu Outlet,Costa Rica,San José,1,8.0,225.2
+2025-10-08,ST007,Santiago Sport Center,Chile,Santiago,1,4.0,79.6
+2025-10-09,ST007,Santiago Sport Center,Chile,Santiago,1,15.0,537.15
+2025-10-09,ST002,Escazu Outlet,Costa Rica,San José,1,13.0,364.7
+2025-10-09,ST005,Panama Online Hub,Panama,Panama City,1,1.0,109.9
+2025-10-10,ST002,Escazu Outlet,Costa Rica,San José,1,4.0,479.6
+2025-10-10,ST004,Bogota North,Colombia,Bogotá,1,5.0,78.5
+2025-10-11,ST004,Bogota North,Colombia,Bogotá,1,9.0,796.9000000000001
+2025-10-11,ST003,Mexico City Reforma,Mexico,Mexico City,1,15.0,559.5
+2025-10-11,ST007,Santiago Sport Center,Chile,Santiago,1,8.0,199.2
+2025-10-12,ST006,Guatemala Mall,Guatemala,Guatemala City,1,15.0,496.52
+2025-10-13,ST005,Panama Online Hub,Panama,Panama City,1,8.0,335.20000000000005
+2025-10-14,ST003,Mexico City Reforma,Mexico,Mexico City,1,3.0,44.7
+2025-10-18,ST006,Guatemala Mall,Guatemala,Guatemala City,1,5.0,219.28499999999997
+2025-10-19,ST006,Guatemala Mall,Guatemala,Guatemala City,1,13.0,410.505
+2025-10-20,ST003,Mexico City Reforma,Mexico,Mexico City,3,15.0,901.9300000000001
+2025-10-20,ST001,San Jose Central,Costa Rica,San José,2,16.0,656.44
+2025-10-21,ST005,Panama Online Hub,Panama,Panama City,1,10.0,421.0
+2025-10-21,ST006,Guatemala Mall,Guatemala,Guatemala City,1,2.0,21.8
+2025-10-22,ST001,San Jose Central,Costa Rica,San José,2,21.0,837.9
+2025-10-22,ST007,Santiago Sport Center,Chile,Santiago,1,5.0,334.91
+2025-10-22,ST006,Guatemala Mall,Guatemala,Guatemala City,1,3.0,159.7
+2025-10-22,ST005,Panama Online Hub,Panama,Panama City,1,5.0,144.5
+2025-10-22,ST002,Escazu Outlet,Costa Rica,San José,1,3.0,53.699999999999996
+2025-10-23,ST001,San Jose Central,Costa Rica,San José,1,15.0,764.5
+2025-10-24,ST002,Escazu Outlet,Costa Rica,San José,1,12.0,180.8
+2025-10-24,ST006,Guatemala Mall,Guatemala,Guatemala City,1,6.0,130.2
+2025-10-24,ST004,Bogota North,Colombia,Bogotá,1,4.0,63.6
+2025-10-25,ST005,Panama Online Hub,Panama,Panama City,1,8.0,506.71500000000003
+2025-10-25,ST007,Santiago Sport Center,Chile,Santiago,1,10.0,228.92499999999998
+2025-10-26,ST003,Mexico City Reforma,Mexico,Mexico City,2,23.0,688.2549999999999
+2025-10-27,ST002,Escazu Outlet,Costa Rica,San José,1,9.0,170.09999999999997
+2025-10-28,ST007,Santiago Sport Center,Chile,Santiago,2,22.0,781.26
+2025-10-28,ST002,Escazu Outlet,Costa Rica,San José,1,7.0,127.3
+2025-10-29,ST001,San Jose Central,Costa Rica,San José,1,4.0,161.60000000000002
+2025-10-29,ST005,Panama Online Hub,Panama,Panama City,1,6.0,128.39999999999998
+2025-10-30,ST001,San Jose Central,Costa Rica,San José,1,8.0,386.2
+2025-10-30,ST007,Santiago Sport Center,Chile,Santiago,1,5.0,182.5
+2025-10-31,ST004,Bogota North,Colombia,Bogotá,3,19.0,866.1
+2025-11-01,ST003,Mexico City Reforma,Mexico,Mexico City,1,8.0,249.2
+2025-11-02,ST007,Santiago Sport Center,Chile,Santiago,2,12.0,190.645
+2025-11-04,ST001,San Jose Central,Costa Rica,San José,1,2.0,22.61
+2025-11-06,ST001,San Jose Central,Costa Rica,San José,3,16.0,1166.4
+2025-11-06,ST002,Escazu Outlet,Costa Rica,San José,1,11.0,415.9
+2025-11-07,ST007,Santiago Sport Center,Chile,Santiago,1,5.0,92.1
+2025-11-08,ST002,Escazu Outlet,Costa Rica,San José,1,7.0,329.3
+2025-11-08,ST004,Bogota North,Colombia,Bogotá,1,10.0,271.87499999999994
+2025-11-10,ST002,Escazu Outlet,Costa Rica,San José,1,11.0,439.44500000000005
+2025-11-10,ST005,Panama Online Hub,Panama,Panama City,1,11.0,296.9
+2025-11-10,ST007,Santiago Sport Center,Chile,Santiago,1,3.0,75.7
+2025-11-11,ST004,Bogota North,Colombia,Bogotá,2,9.0,434.09999999999997
+2025-11-12,ST002,Escazu Outlet,Costa Rica,San José,1,2.0,59.33
+2025-11-13,ST007,Santiago Sport Center,Chile,Santiago,1,2.0,161.82000000000002
+2025-11-13,ST005,Panama Online Hub,Panama,Panama City,1,5.0,107.14499999999998
+2025-11-15,ST003,Mexico City Reforma,Mexico,Mexico City,1,10.0,651.8
+2025-11-15,ST006,Guatemala Mall,Guatemala,Guatemala City,1,11.0,302.9
+2025-11-15,ST001,San Jose Central,Costa Rica,San José,1,9.0,215.1
+2025-11-16,ST006,Guatemala Mall,Guatemala,Guatemala City,1,4.0,269.6
+2025-11-16,ST001,San Jose Central,Costa Rica,San José,1,9.0,191.1
+2025-11-17,ST005,Panama Online Hub,Panama,Panama City,2,17.0,731.54
+2025-11-17,ST001,San Jose Central,Costa Rica,San José,1,5.0,140.5
+2025-11-18,ST003,Mexico City Reforma,Mexico,Mexico City,1,11.0,332.9
+2025-11-18,ST004,Bogota North,Colombia,Bogotá,1,9.0,271.53
+2025-11-19,ST001,San Jose Central,Costa Rica,San José,1,8.0,504.6
+2025-11-19,ST006,Guatemala Mall,Guatemala,Guatemala City,2,14.0,402.59999999999997
+2025-11-19,ST004,Bogota North,Colombia,Bogotá,1,3.0,53.73
+2025-11-20,ST002,Escazu Outlet,Costa Rica,San José,1,11.0,645.5
+2025-11-20,ST005,Panama Online Hub,Panama,Panama City,1,7.0,195.91999999999996
+2025-11-20,ST001,San Jose Central,Costa Rica,San José,1,5.0,169.5
+2025-11-21,ST004,Bogota North,Colombia,Bogotá,1,7.0,119.475
+2025-11-22,ST003,Mexico City Reforma,Mexico,Mexico City,2,20.0,842.85
+2025-11-22,ST006,Guatemala Mall,Guatemala,Guatemala City,1,7.0,75.975
+2025-11-23,ST001,San Jose Central,Costa Rica,San José,1,11.0,603.9
+2025-11-23,ST007,Santiago Sport Center,Chile,Santiago,1,17.0,422.775
+2025-11-23,ST004,Bogota North,Colombia,Bogotá,1,12.0,362.84999999999997
+2025-11-24,ST003,Mexico City Reforma,Mexico,Mexico City,1,10.0,457.02000000000004
+2025-11-24,ST004,Bogota North,Colombia,Bogotá,1,11.0,202.1
+2025-11-24,ST007,Santiago Sport Center,Chile,Santiago,1,6.0,107.4
+2025-11-25,ST002,Escazu Outlet,Costa Rica,San José,2,32.0,1529.035
+2025-11-25,ST006,Guatemala Mall,Guatemala,Guatemala City,1,11.0,198.67499999999998
+2025-11-26,ST003,Mexico City Reforma,Mexico,Mexico City,2,19.0,479.09999999999997
+2025-11-26,ST001,San Jose Central,Costa Rica,San José,1,6.0,327.3
+2025-11-26,ST005,Panama Online Hub,Panama,Panama City,1,14.0,308.54999999999995
+2025-11-26,ST007,Santiago Sport Center,Chile,Santiago,1,6.0,153.6
+2025-11-28,ST003,Mexico City Reforma,Mexico,Mexico City,1,10.0,243.99999999999997
+2025-11-28,ST007,Santiago Sport Center,Chile,Santiago,1,3.0,64.27499999999999
+2025-11-29,ST004,Bogota North,Colombia,Bogotá,2,21.0,507.9
+2025-11-29,ST003,Mexico City Reforma,Mexico,Mexico City,1,7.0,324.3
+2025-11-29,ST006,Guatemala Mall,Guatemala,Guatemala City,1,5.0,72.52
+2025-11-30,ST007,Santiago Sport Center,Chile,Santiago,1,11.0,295.875
+2025-11-30,ST004,Bogota North,Colombia,Bogotá,1,3.0,89.69999999999999
+2025-11-30,ST001,San Jose Central,Costa Rica,San José,1,3.0,47.7
+2025-12-01,ST007,Santiago Sport Center,Chile,Santiago,1,11.0,942.4100000000001
+2025-12-01,ST003,Mexico City Reforma,Mexico,Mexico City,1,8.0,330.605
+2025-12-02,ST001,San Jose Central,Costa Rica,San José,1,13.0,374.7
+2025-12-02,ST005,Panama Online Hub,Panama,Panama City,2,11.0,222.81
+2025-12-02,ST002,Escazu Outlet,Costa Rica,San José,1,4.0,59.6
+2025-12-03,ST003,Mexico City Reforma,Mexico,Mexico City,1,5.0,156.9
+2025-12-05,ST003,Mexico City Reforma,Mexico,Mexico City,1,12.0,658.8
+2025-12-05,ST007,Santiago Sport Center,Chile,Santiago,1,14.0,424.59999999999997
+2025-12-05,ST001,San Jose Central,Costa Rica,San José,1,5.0,185.5
+2025-12-06,ST005,Panama Online Hub,Panama,Panama City,3,27.0,839.0849999999999
+2025-12-06,ST002,Escazu Outlet,Costa Rica,San José,1,8.0,193.2
+2025-12-07,ST004,Bogota North,Colombia,Bogotá,1,8.0,403.20000000000005
+2025-12-08,ST005,Panama Online Hub,Panama,Panama City,2,5.0,215.5
+2025-12-08,ST001,San Jose Central,Costa Rica,San José,1,1.0,17.9
+2025-12-09,ST004,Bogota North,Colombia,Bogotá,1,4.0,479.6
+2025-12-10,ST004,Bogota North,Colombia,Bogotá,1,4.0,185.81
+2025-12-11,ST001,San Jose Central,Costa Rica,San José,1,4.0,60.85999999999999
+2025-12-13,ST007,Santiago Sport Center,Chile,Santiago,1,10.0,268.0
+2025-12-14,ST001,San Jose Central,Costa Rica,San José,1,12.0,304.8
+2025-12-14,ST007,Santiago Sport Center,Chile,Santiago,1,8.0,212.745
+2025-12-15,ST003,Mexico City Reforma,Mexico,Mexico City,2,15.0,572.5
+2025-12-15,ST007,Santiago Sport Center,Chile,Santiago,1,11.0,380.9
+2025-12-15,ST001,San Jose Central,Costa Rica,San José,1,1.0,26.9
+2025-12-16,ST007,Santiago Sport Center,Chile,Santiago,2,14.0,765.62
+2025-12-16,ST006,Guatemala Mall,Guatemala,Guatemala City,2,13.0,556.73
+2025-12-16,ST003,Mexico City Reforma,Mexico,Mexico City,1,4.0,239.6
+2025-12-17,ST006,Guatemala Mall,Guatemala,Guatemala City,2,16.0,854.2
+2025-12-17,ST003,Mexico City Reforma,Mexico,Mexico City,2,12.0,268.81
+2025-12-18,ST007,Santiago Sport Center,Chile,Santiago,1,4.0,113.61999999999999
+2025-12-19,ST001,San Jose Central,Costa Rica,San José,1,2.0,119.8
+2025-12-20,ST007,Santiago Sport Center,Chile,Santiago,2,11.0,476.9
+2025-12-20,ST001,San Jose Central,Costa Rica,San José,2,13.0,459.53999999999996
+2025-12-20,ST005,Panama Online Hub,Panama,Panama City,1,12.0,389.8
+2025-12-20,ST006,Guatemala Mall,Guatemala,Guatemala City,1,5.0,85.00999999999999
+2025-12-21,ST001,San Jose Central,Costa Rica,San José,1,13.0,415.47499999999997
+2025-12-21,ST003,Mexico City Reforma,Mexico,Mexico City,2,7.0,376.9
+2025-12-21,ST002,Escazu Outlet,Costa Rica,San José,1,4.0,118.6
+2025-12-22,ST004,Bogota North,Colombia,Bogotá,1,9.0,321.865
+2025-12-22,ST006,Guatemala Mall,Guatemala,Guatemala City,1,4.0,169.45499999999998
+2025-12-23,ST006,Guatemala Mall,Guatemala,Guatemala City,1,7.0,137.29999999999998
+2025-12-24,ST002,Escazu Outlet,Costa Rica,San José,1,12.0,672.8
+2025-12-25,ST001,San Jose Central,Costa Rica,San José,1,8.0,109.2
+2025-12-25,ST004,Bogota North,Colombia,Bogotá,1,1.0,11.9
+2025-12-26,ST005,Panama Online Hub,Panama,Panama City,1,15.0,759.5
+2025-12-26,ST002,Escazu Outlet,Costa Rica,San José,2,14.0,553.6
+2025-12-28,ST001,San Jose Central,Costa Rica,San José,2,15.0,282.5
+2025-12-29,ST004,Bogota North,Colombia,Bogotá,1,13.0,741.7
+2025-12-29,ST007,Santiago Sport Center,Chile,Santiago,1,9.0,301.1
+2025-12-30,ST002,Escazu Outlet,Costa Rica,San José,1,6.0,367.20000000000005
+2025-12-30,ST003,Mexico City Reforma,Mexico,Mexico City,1,5.0,242.5
+2025-12-31,ST003,Mexico City Reforma,Mexico,Mexico City,2,23.0,621.76
